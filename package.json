@@ -1,0 +1,13 @@
+{
+  "name": "alpenglow-flight",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 server.py",
+    "test": "node tests/scene.test.mjs && node tests/combat.test.mjs && node tests/audio.test.mjs && python3 tests/usage_test.py && python3 tests/score_stream_test.py"
+  },
+  "dependencies": {
+    "three": "0.186.1"
+  }
+}

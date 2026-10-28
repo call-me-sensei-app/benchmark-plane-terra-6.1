@@ -1,0 +1,6 @@
+node_modules/
+.session-id
+.DS_Store
+__pycache__/
+.pnpm-store/
+screenshots/production-timelapse.gif

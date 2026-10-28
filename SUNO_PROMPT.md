@@ -1,0 +1,5 @@
+# Background music prompt
+
+Instrumental cinematic orchestral score for an approximately 2-minute-36-second animated adventure. Begin with a quiet, mysterious night flight over a vast Alpine lake: delicate piano, glassy textures, low strings and distant warm horns. Gradually open into a luminous sunrise with a tender, memorable theme for a brave little penguin pilot. At 1:28, launch into a fast, thrilling one-minute aerial chase: driving strings, urgent percussion, brass and rising tension, with clear changes for a low lake pass, a mountain escape, a steep climb and a triumphant reversal. At 2:28, transition immediately into a playful, heartfelt approach to the camera; briefly suspend the music around 2:30–2:32 for a wink and freeze-frame, then surge upward into a joyful final fly-through and a warm, soaring ending. Cinematic, dramatic, adventurous and emotionally sincere. No vocals, spoken words, gunfire or engine sounds; leave room for sound effects.
+
+The time cues are a creative guide; the generated track may need editing to align precisely with the film.
