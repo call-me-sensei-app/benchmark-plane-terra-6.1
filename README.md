@@ -1,36 +1,63 @@
-# Alpenglow
+# Alpenglow — a flight to the light
 
-A procedural Three.js flight through an imagined Swiss alpine valley. The current build is a **stylized work in progress**, not a photorealistic final render. The landscape, water, clouds, wildlife, aircraft, pilot, scarf and sound effects are generated in code without downloaded visual assets. The background score is the user-supplied recording in `assets/flight-to-the-light.wav`. Three.js is the sole runtime library.
+A procedural Three.js film of a plush penguin pilot flying a propeller plane through an imagined Swiss alpine valley: from a moonlit lake into the sunrise, a 60-second dogfight with two pursuers, a wink at the camera and a climbing farewell. The landscape, water, clouds, wildlife, aircraft, pilot, silk scarf and every sound effect are generated in code, with no downloaded visual assets. Three.js is the sole runtime library.
 
-## Preview
+Built entirely by **GPT-6.1 Terra at Max effort** (not Fast mode) in one Codex session.
 
-The current local preview is at [http://127.0.0.1:4173](http://127.0.0.1:4173). To run it again from this folder:
+**Live page:** [callmesensei.app/experiments/benchmark-plane-terra-6-1](https://www.callmesensei.app/experiments/benchmark-plane-terra-6-1) · **Run it in your browser:** [/live](https://www.callmesensei.app/experiments/benchmark-plane-terra-6-1/live)
+
+[![Alpenglow: the penguin pilot's plane over the alpine lake at sunrise](docs/key-art.webp)](https://www.callmesensei.app/experiments/benchmark-plane-terra-6-1)
+
+## Watch
+
+- **[The film](https://cdn.callmesensei.app/website/experiments/benchmark-plane-terra-6-1/film-db4178b1d55d73c1.mp4)**: the whole 2:36 film recorded from the live build in cinema mode (no interface), 1920×1080 with sound.
+- **[Development timelapse](https://cdn.callmesensei.app/website/experiments/benchmark-plane-terra-6-1/development-timelapse-20e544dd40499c79.mp4)**: all 617 development captures in 112 seconds, each captioned with the active build time and token count when it was saved.
+
+![Development timelapse preview](docs/timelapse-preview.webp)
+
+## By the numbers
+
+| | |
+| --- | --- |
+| Active development time | **4 h 25 m** (15,918 s over 10 turns; the 3.7 h between turns are left out) |
+| Tokens | **320,887,520** (316.9 M cached input, 914 k output) |
+| Requests | **1,208** (604 above 272 k tokens of context) |
+| Standard API equivalent | **~$37.09** |
+| Development captures | **617** |
+
+The totals are the final readings of the session meter the builder put on screen ([`usage-final.json`](usage-final.json)). Active time counts running turns only. Tokens include cached context, which is re-counted on every request. The dollar figure applies the published GPT-6.1 Terra input, cached-input, cache-write and output rates per request, including the long-context adjustment ([OpenAI's model page](https://developers.openai.com/api/docs/models/gpt-6.1-terra)); it is a hypothetical API price, not a Codex invoice, and excludes unrecorded tier, tool and tax charges.
+
+## What's inside
+
+- **Watch the full film** plays the 2:36 sequence: the night opening, the sunrise, the 60-second chase (two pursuers cross at staggered heights, bank through wide turns and settle behind the penguin; they overshoot below as the plane climbs, the harnessed pilot hangs inverted at the apex and rolls into a dive behind them), then the farewell: the plane approaches, the penguin raises the goggles and winks, the image holds with a motion echo, and the camera sweeps around as the plane climbs away under the end title.
+- **Cinema mode** plays the film with no labels or controls. Move the pointer or tap to reveal pause and exit; Space pauses or resumes and Escape restores the interface.
+- **Explore the scene / Guided tour** opens twenty-two stops explaining the techniques, with short previews of the pilot's gesture, the wake, the pursuers' overshoot, an explosion, birds, dolphins and the farewell. **Watch the chase** jumps straight to the 60-second sequence.
+- Sound: the supplied score plays alongside locally synthesized engine, wind, near misses, rapid gunfire with valley echoes, water impacts and explosions. The score is gently time-fitted to the film and follows pause, seek and replay. The music-generation prompt the builder wrote is in [`SUNO_PROMPT.md`](SUNO_PROMPT.md); the recording itself (`assets/flight-to-the-light.wav`) was supplied for the film.
+- The overhead lake view reveals a shallow glacial shoal with rocks, vegetation, fish and animated caustics. The water blends the lakebed with the reflected world by depth and viewing angle. Dolphin breaches trigger foam, spray and wakes; bullet strikes use finer jets and disturb the reflection separately.
+- The **Night–Sunrise** line is a scrubber. Restart returns to the beginning; the arrow button changes the camera angle and the target button toggles the overhead view. `?time=314` starts the animation at that many seconds.
+
+This is a **stylized work in progress**, not a photorealistic render. The mountains, forest, water, cockpit and plush character are procedural approximations; reaching the requested ultra-realism would need further geology and erosion, richer vegetation and lake depth, detailed aircraft construction, higher-fidelity cloth and fur, volumetric atmosphere and more refined cinematic rendering.
+
+## Run locally
 
 ```sh
 npm install
-python3 server.py
+npm start          # python3 server.py: http://127.0.0.1:4173
 ```
 
-Open the printed address in a WebGL-capable browser. The dependency is pinned to Three.js `0.186.1` (r186). On a machine without `npm`, use another Node package manager to install the dependency in `package.json`.
+Open the address in a WebGL2-capable browser. Three.js is pinned to `0.186.1` (r186). The local preview serves the modules unbundled and includes the live session meter (`/api/usage`), which reads this session's records from `~/.codex/sessions` when they are present.
 
-- **Watch the full film** starts the approximately 2:36 sequence from its night opening. The background stays in a peaceful cruise until you start playback. Use the pause button alongside the playback clock to pause or resume, and replay after the ending. At sunrise it flows into the 60-second chase: the two approaching pursuers cross at staggered heights, bank through wide turns, and settle behind the penguin on exchanged sides. They later overshoot below as the plane climbs. At the apex the harnessed pilot hangs inverted before rolling into a dive behind them. Incoming fire ends before the pull-up, and the penguin fires only after its flight path lines up with each target. Each explosion follows a projectile reaching its target, with a layered blast, sparks and a brief screen shake. Reduced-motion settings soften the shake and flash. Afterward, the plane approaches as the penguin raises the goggles and winks; the image holds with a motion echo, then the camera sweeps around in one continuous move as the plane climbs away. An end title fades in over the continuing departure with options to replay or explore.
-- **Cinema mode** starts the film without labels or controls. The square icon in the footer also enters cinema mode during playback. Move the pointer or tap to reveal pause and exit controls temporarily; Space pauses or resumes and Escape restores the interface. The ending card still appears when the film finishes.
-- **Explore the scene / Guided tour** opens twenty-two stops explaining the techniques, with short previews of the pilot's gesture, the wake, the pursuers' overshoot, an explosion, birds, dolphins, and the farewell. The main film pauses while the tour is open. **Watch the chase** jumps straight to the 60-second sequence. The stops advance automatically, or use the next/previous buttons and arrow keys. Escape closes the tour.
-- The play controls start the supplied score alongside locally synthesized engine, wind, near misses, rapid gunfire and valley echoes, water impacts, and explosions. The score is gently time-fitted to the film, follows the chase shortcut and restart controls, and pauses with the film or guided tour. All sound, including the propeller, fades out at the end title. The music-note button mutes or enables sound, and an explicit mute is remembered for replay in the current page. A browser that blocks audio can use that button to retry. The music-generation prompt is in `SUNO_PROMPT.md`.
-- The **Night–Sunrise** line is a scrubber. Restart returns to the beginning of the flight; the arrow button changes the camera angle, and the target button toggles the overhead view.
-- The scenery repeats with matched terrain edges during a long flight. For development, `?time=314` starts the animation at that many seconds.
-- The overhead lake view reveals a shallow glacial shoal with rocks, vegetation, fish and animated caustics. The water blends the lakebed with the reflected world according to depth and viewing angle. Dolphin breaches trigger foam, spray and wakes at their surface crossings; bullet strikes use shorter, finer jets and disturb the reflected water separately.
-- The session meter is expandable. It reads aggregate records for this Codex chat locally, including cached input, and counts active turns while excluding gaps between turns. It may include tool wait time inside an active turn and updates as records are written. If the session records cannot be found, the meter reports unavailable.
-- The dollar figure is a **standard API price equivalent**, not a Codex invoice. It applies the published GPT-6.1 Terra input, cached-input, 30-minute cache-write, and output rates, including the long-context adjustment per recorded request. It cannot know unrecorded service-tier, cache-retention, regional, tool, or tax charges. The API rates are documented at [OpenAI's model page](https://developers.openai.com/api/docs/models/gpt-6.1-terra).
+```sh
+npm run build      # Vite production build in dist/ (works under any base path, e.g. --base=/some/path/)
+npm test           # scene, combat, audio, usage and score-streaming checks (Node.js and Python)
+```
 
-## Progress captures
+A production build has no session server: its meter shows the final totals from `usage-final.json` and is labelled FINAL. `python3 scripts/snapshot_usage.py` rewrites that file from the session records.
 
-The `screenshots/` folder contains numbered images captured during development, including intermediate rendering mistakes, plus an animated time lapse assembled from them. The original PNGs are retained at full preview resolution.
+## Development record
 
-## Further realism work
-
-The current mountain surfaces, forest, water, cockpit, and plush character are procedural approximations. They would need additional geology and erosion, richer vegetation and lake depth, detailed aircraft construction, higher-fidelity cloth and fur, volumetric atmosphere, and more refined cinematic rendering to approach the requested ultra-realistic goal.
+[`screenshots/`](screenshots) holds the 617 numbered captures saved during development, including intermediate rendering mistakes, at their original resolution. [`screenshots/ledger.json`](screenshots/ledger.json) gives each one's save time, active build time and cumulative token count (`python3 scripts/capture_ledger.py` regenerates it). `python3 make_timelapse.py` (Pillow) assembles them into `screenshots/production-timelapse.gif`; that GIF is over 100 MB, so it is not committed. The captioned MP4 timelapse above is the published version.
 
 ## Checks
 
-With Node.js and Python installed, run `npm test` to check terrain and lakebed seams, surface crossings, the cloth simulation, the pursuers' crossing and camera framing, flight alignment and clearance, projectile travel and impact timing, score synchronization and streaming, sound events and mute behavior, usage aggregation, price calculations, and idle-gap handling.
+With Node.js and Python installed, `npm test` checks terrain and lakebed seams, surface crossings, the cloth simulation, the pursuers' crossing and camera framing, flight alignment and clearance, projectile travel and impact timing, score synchronization and streaming, sound events and mute behavior, usage aggregation, price calculations and idle-gap handling.
