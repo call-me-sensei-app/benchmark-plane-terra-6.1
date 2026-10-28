@@ -10,7 +10,7 @@ Built entirely by **GPT-6.1 Terra at Max effort** (not Fast mode) in one Codex s
 
 ## Watch
 
-- **[The film](https://cdn.callmesensei.app/website/experiments/benchmark-plane-terra-6-1/film-db4178b1d55d73c1.mp4)**: the whole 2:36 film recorded from the live build in cinema mode (no interface), 1920×1080 with sound.
+- **[The film](https://cdn.callmesensei.app/website/experiments/benchmark-plane-terra-6-1/film-db4178b1d55d73c1.mp4)**: the whole film (2:44 with the end title) recorded from the live build in cinema mode (no interface), 1920×1080 with sound.
 - **[Development timelapse](https://cdn.callmesensei.app/website/experiments/benchmark-plane-terra-6-1/development-timelapse-20e544dd40499c79.mp4)**: all 617 development captures in 112 seconds, each captioned with the active build time and token count when it was saved.
 
 ![Development timelapse preview](docs/timelapse-preview.webp)
