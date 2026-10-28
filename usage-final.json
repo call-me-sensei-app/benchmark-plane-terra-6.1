@@ -1,0 +1,10 @@
+{
+  "input_tokens": 319973477,
+  "cached_input_tokens": 316850560,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 914043,
+  "total_tokens": 320887520,
+  "estimated_cost": 37.09392269999997,
+  "active_dev_seconds": 15917.892999887466,
+  "active_turn": false
+}

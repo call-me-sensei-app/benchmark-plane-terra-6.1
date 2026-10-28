@@ -1,0 +1,3704 @@
+[
+ {
+  "file": "001-first-blockout.png",
+  "saved": "2026-10-28T15:23:44+09:00",
+  "active_seconds": 105.6,
+  "total_tokens": 475975
+ },
+ {
+  "file": "002-procedural-world.png",
+  "saved": "2026-10-28T15:26:08+09:00",
+  "active_seconds": 249.9,
+  "total_tokens": 793237
+ },
+ {
+  "file": "003-mountain-light.png",
+  "saved": "2026-10-28T15:26:27+09:00",
+  "active_seconds": 268.4,
+  "total_tokens": 1239971
+ },
+ {
+  "file": "004-guided-flight.png",
+  "saved": "2026-10-28T15:29:44+09:00",
+  "active_seconds": 465.9,
+  "total_tokens": 2179438
+ },
+ {
+  "file": "005-pilot-tour.png",
+  "saved": "2026-10-28T15:30:18+09:00",
+  "active_seconds": 500.0,
+  "total_tokens": 2661682
+ },
+ {
+  "file": "006-refined-valley.png",
+  "saved": "2026-10-28T15:31:09+09:00",
+  "active_seconds": 551.0,
+  "total_tokens": 3052326
+ },
+ {
+  "file": "007-sunrise.png",
+  "saved": "2026-10-28T15:31:13+09:00",
+  "active_seconds": 554.3,
+  "total_tokens": 3186205
+ },
+ {
+  "file": "008-sun-and-clouds.png",
+  "saved": "2026-10-28T15:32:19+09:00",
+  "active_seconds": 620.4,
+  "total_tokens": 3608825
+ },
+ {
+  "file": "009-surface-detail.png",
+  "saved": "2026-10-28T15:32:53+09:00",
+  "active_seconds": 655.1,
+  "total_tokens": 4058041
+ },
+ {
+  "file": "010-long-flight.png",
+  "saved": "2026-10-28T15:34:52+09:00",
+  "active_seconds": 773.6,
+  "total_tokens": 5194439
+ },
+ {
+  "file": "011-pilot-details.png",
+  "saved": "2026-10-28T15:36:15+09:00",
+  "active_seconds": 857.1,
+  "total_tokens": 5892262
+ },
+ {
+  "file": "012-peak-variation.png",
+  "saved": "2026-10-28T15:37:26+09:00",
+  "active_seconds": 927.5,
+  "total_tokens": 7402357
+ },
+ {
+  "file": "013-shaped-peaks.png",
+  "saved": "2026-10-28T15:37:46+09:00",
+  "active_seconds": 948.1,
+  "total_tokens": 7801387
+ },
+ {
+  "file": "014-atmosphere.png",
+  "saved": "2026-10-28T15:38:07+09:00",
+  "active_seconds": 968.1,
+  "total_tokens": 8205298
+ },
+ {
+  "file": "015-wear-and-clear-water.png",
+  "saved": "2026-10-28T15:42:00+09:00",
+  "active_seconds": 1201.9,
+  "total_tokens": 10129633
+ },
+ {
+  "file": "016-aerial-view.png",
+  "saved": "2026-10-28T15:42:04+09:00",
+  "active_seconds": 1205.7,
+  "total_tokens": 10352553
+ },
+ {
+  "file": "017-underwater-life.png",
+  "saved": "2026-10-28T15:44:02+09:00",
+  "active_seconds": 1323.6,
+  "total_tokens": 11754973
+ },
+ {
+  "file": "018-overhead-sunrise.png",
+  "saved": "2026-10-28T15:45:22+09:00",
+  "active_seconds": 1403.9,
+  "total_tokens": 13006510
+ },
+ {
+  "file": "019-dense-forest.png",
+  "saved": "2026-10-28T15:46:15+09:00",
+  "active_seconds": 1457.0,
+  "total_tokens": 13792678
+ },
+ {
+  "file": "020-worn-aircraft-and-pilot.png",
+  "saved": "2026-10-28T15:47:12+09:00",
+  "active_seconds": 1514.0,
+  "total_tokens": 14331319
+ },
+ {
+  "file": "021-valley-scale.png",
+  "saved": "2026-10-28T15:50:07+09:00",
+  "active_seconds": 1688.6,
+  "total_tokens": 16857528
+ },
+ {
+  "file": "022-silk-simulation.png",
+  "saved": "2026-10-28T15:50:32+09:00",
+  "active_seconds": 1713.4,
+  "total_tokens": 18037226
+ },
+ {
+  "file": "023-eroded-mountains.png",
+  "saved": "2026-10-28T15:51:54+09:00",
+  "active_seconds": 1795.4,
+  "total_tokens": 20484694
+ },
+ {
+  "file": "024-plush-fibers.png",
+  "saved": "2026-10-28T15:53:12+09:00",
+  "active_seconds": 1873.5,
+  "total_tokens": 21757611
+ },
+ {
+  "file": "025-chase-climb.png",
+  "saved": "2026-10-28T15:58:46+09:00",
+  "active_seconds": 2207.8,
+  "total_tokens": 28011755
+ },
+ {
+  "file": "026-mountain-chase.png",
+  "saved": "2026-10-28T16:00:01+09:00",
+  "active_seconds": 2282.1,
+  "total_tokens": 30269372
+ },
+ {
+  "file": "027-final-pass.png",
+  "saved": "2026-10-28T16:00:35+09:00",
+  "active_seconds": 2316.7,
+  "total_tokens": 31425425
+ },
+ {
+  "file": "028-explosions.png",
+  "saved": "2026-10-28T16:00:48+09:00",
+  "active_seconds": 2329.7,
+  "total_tokens": 32207439
+ },
+ {
+  "file": "029-continuous-chase.png",
+  "saved": "2026-10-28T16:02:30+09:00",
+  "active_seconds": 2431.9,
+  "total_tokens": 35006895
+ },
+ {
+  "file": "030-lake-pursuit.png",
+  "saved": "2026-10-28T16:07:59+09:00",
+  "active_seconds": 2760.1,
+  "total_tokens": 44382145
+ },
+ {
+  "file": "031-rock-material.png",
+  "saved": "2026-10-28T16:10:08+09:00",
+  "active_seconds": 2889.3,
+  "total_tokens": 45822869
+ },
+ {
+  "file": "032-mineral-rock.png",
+  "saved": "2026-10-28T16:10:21+09:00",
+  "active_seconds": 2903.1,
+  "total_tokens": 46005745
+ },
+ {
+  "file": "033-rugged-terrain.png",
+  "saved": "2026-10-28T16:11:27+09:00",
+  "active_seconds": 2968.3,
+  "total_tokens": 46428166
+ },
+ {
+  "file": "034-rock-and-forest.png",
+  "saved": "2026-10-28T16:11:33+09:00",
+  "active_seconds": 2974.6,
+  "total_tokens": 46521882
+ },
+ {
+  "file": "035-fast-pursuit.png",
+  "saved": "2026-10-28T16:14:36+09:00",
+  "active_seconds": 3157.4,
+  "total_tokens": 47512641
+ },
+ {
+  "file": "036-high-speed-wake.png",
+  "saved": "2026-10-28T16:14:40+09:00",
+  "active_seconds": 3162.0,
+  "total_tokens": 47633062
+ },
+ {
+  "file": "037-racing-treeline.png",
+  "saved": "2026-10-28T16:15:07+09:00",
+  "active_seconds": 3188.2,
+  "total_tokens": 47757241
+ },
+ {
+  "file": "038-reversal.png",
+  "saved": "2026-10-28T16:15:12+09:00",
+  "active_seconds": 3193.2,
+  "total_tokens": 47884158
+ },
+ {
+  "file": "039-fast-final-pass.png",
+  "saved": "2026-10-28T16:15:16+09:00",
+  "active_seconds": 3197.5,
+  "total_tokens": 48013817
+ },
+ {
+  "file": "040-wake-and-sound.png",
+  "saved": "2026-10-28T16:15:48+09:00",
+  "active_seconds": 3230.0,
+  "total_tokens": 48418311
+ },
+ {
+  "file": "041-pilot-reaction.png",
+  "saved": "2026-10-28T16:16:01+09:00",
+  "active_seconds": 3242.4,
+  "total_tokens": 48697626
+ },
+ {
+  "file": "042-continuous-fast-chase.png",
+  "saved": "2026-10-28T16:18:15+09:00",
+  "active_seconds": 3376.1,
+  "total_tokens": 49899994
+ },
+ {
+  "file": "043-smooth-mountain-flight.png",
+  "saved": "2026-10-28T16:18:40+09:00",
+  "active_seconds": 3401.7,
+  "total_tokens": 50212284
+ },
+ {
+  "file": "044-extended-lakebed.png",
+  "saved": "2026-10-28T16:19:22+09:00",
+  "active_seconds": 3444.0,
+  "total_tokens": 50855162
+ },
+ {
+  "file": "045-extended-water.png",
+  "saved": "2026-10-28T16:19:44+09:00",
+  "active_seconds": 3465.7,
+  "total_tokens": 51354749
+ },
+ {
+  "file": "046-lake-horizon.png",
+  "saved": "2026-10-28T16:19:50+09:00",
+  "active_seconds": 3471.8,
+  "total_tokens": 51354749
+ },
+ {
+  "file": "047-cloud-layer.png",
+  "saved": "2026-10-28T16:21:18+09:00",
+  "active_seconds": 3559.5,
+  "total_tokens": 52053062
+ },
+ {
+  "file": "048-soft-clouds.png",
+  "saved": "2026-10-28T16:22:11+09:00",
+  "active_seconds": 3612.3,
+  "total_tokens": 52417462
+ },
+ {
+  "file": "049-pilot-detail.png",
+  "saved": "2026-10-28T16:23:08+09:00",
+  "active_seconds": 3669.6,
+  "total_tokens": 52976156
+ },
+ {
+  "file": "050-goggle-gesture.png",
+  "saved": "2026-10-28T16:23:36+09:00",
+  "active_seconds": 3697.6,
+  "total_tokens": 53359950
+ },
+ {
+  "file": "051-pilot-goggles.png",
+  "saved": "2026-10-28T16:23:40+09:00",
+  "active_seconds": 3702.1,
+  "total_tokens": 53359950
+ },
+ {
+  "file": "052-pursuit-framing.png",
+  "saved": "2026-10-28T16:24:05+09:00",
+  "active_seconds": 3726.5,
+  "total_tokens": 53948801
+ },
+ {
+  "file": "053-pilot-reaches-goggles.png",
+  "saved": "2026-10-28T16:24:24+09:00",
+  "active_seconds": 3745.9,
+  "total_tokens": 54951173
+ },
+ {
+  "file": "054-pilot-glove.png",
+  "saved": "2026-10-28T16:24:32+09:00",
+  "active_seconds": 3753.6,
+  "total_tokens": 55155097
+ },
+ {
+  "file": "055-aerial-valley.png",
+  "saved": "2026-10-28T16:24:43+09:00",
+  "active_seconds": 3765.1,
+  "total_tokens": 55362013
+ },
+ {
+  "file": "056-tour-gesture.png",
+  "saved": "2026-10-28T16:27:00+09:00",
+  "active_seconds": 3901.4,
+  "total_tokens": 56222833
+ },
+ {
+  "file": "057-tour-explosion.png",
+  "saved": "2026-10-28T16:27:08+09:00",
+  "active_seconds": 3909.2,
+  "total_tokens": 56443853
+ },
+ {
+  "file": "058-overhead-clean.png",
+  "saved": "2026-10-28T16:27:31+09:00",
+  "active_seconds": 3933.1,
+  "total_tokens": 57119498
+ },
+ {
+  "file": "059-joined-lakebed.png",
+  "saved": "2026-10-28T16:28:12+09:00",
+  "active_seconds": 3973.6,
+  "total_tokens": 57581165
+ },
+ {
+  "file": "060-overhead-lakebed.png",
+  "saved": "2026-10-28T16:28:25+09:00",
+  "active_seconds": 3987.1,
+  "total_tokens": 58050605
+ },
+ {
+  "file": "061-waterline.png",
+  "saved": "2026-10-28T16:28:45+09:00",
+  "active_seconds": 4006.1,
+  "total_tokens": 58527821
+ },
+ {
+  "file": "062-airfoil.png",
+  "saved": "2026-10-28T16:30:10+09:00",
+  "active_seconds": 4092.0,
+  "total_tokens": 59020492
+ },
+ {
+  "file": "063-wing-closeup.png",
+  "saved": "2026-10-28T16:30:18+09:00",
+  "active_seconds": 4099.2,
+  "total_tokens": 59269846
+ },
+ {
+  "file": "064-conifer-variation.png",
+  "saved": "2026-10-28T16:31:38+09:00",
+  "active_seconds": 4179.7,
+  "total_tokens": 60796562
+ },
+ {
+  "file": "065-underwater-scale.png",
+  "saved": "2026-10-28T16:33:11+09:00",
+  "active_seconds": 4272.9,
+  "total_tokens": 61588902
+ },
+ {
+  "file": "066-shallow-school.png",
+  "saved": "2026-10-28T16:33:57+09:00",
+  "active_seconds": 4318.2,
+  "total_tokens": 62130374
+ },
+ {
+  "file": "067-underwater-details.png",
+  "saved": "2026-10-28T16:34:54+09:00",
+  "active_seconds": 4375.5,
+  "total_tokens": 62685287
+ },
+ {
+  "file": "068-living-shallows.png",
+  "saved": "2026-10-28T16:35:30+09:00",
+  "active_seconds": 4411.5,
+  "total_tokens": 63251564
+ },
+ {
+  "file": "069-lake-swell.png",
+  "saved": "2026-10-28T16:36:14+09:00",
+  "active_seconds": 4455.6,
+  "total_tokens": 64115933
+ },
+ {
+  "file": "070-latest-preview.png",
+  "saved": "2026-10-28T16:37:10+09:00",
+  "active_seconds": 4511.6,
+  "total_tokens": 65295628
+ },
+ {
+  "file": "071-balanced-sunrise.png",
+  "saved": "2026-10-28T16:37:34+09:00",
+  "active_seconds": 4535.6,
+  "total_tokens": 65899111
+ },
+ {
+  "file": "072-night-opening.png",
+  "saved": "2026-10-28T16:37:40+09:00",
+  "active_seconds": 4541.4,
+  "total_tokens": 66203618
+ },
+ {
+  "file": "073-caustics-night.png",
+  "saved": "2026-10-28T18:54:07+09:00",
+  "active_seconds": 4682.4,
+  "total_tokens": 70318329
+ },
+ {
+  "file": "074-silk-weave.png",
+  "saved": "2026-10-28T18:55:17+09:00",
+  "active_seconds": 4753.0,
+  "total_tokens": 72011816
+ },
+ {
+  "file": "075-refined-silk.png",
+  "saved": "2026-10-28T18:56:56+09:00",
+  "active_seconds": 4851.6,
+  "total_tokens": 75509176
+ },
+ {
+  "file": "076-watch-the-film.png",
+  "saved": "2026-10-28T19:03:22+09:00",
+  "active_seconds": 5237.7,
+  "total_tokens": 80899991
+ },
+ {
+  "file": "077-film-pause.png",
+  "saved": "2026-10-28T19:03:44+09:00",
+  "active_seconds": 5259.4,
+  "total_tokens": 81702387
+ },
+ {
+  "file": "078-independent-pursuit.png",
+  "saved": "2026-10-28T19:04:11+09:00",
+  "active_seconds": 5287.1,
+  "total_tokens": 82920094
+ },
+ {
+  "file": "079-two-pursuers.png",
+  "saved": "2026-10-28T19:04:21+09:00",
+  "active_seconds": 5296.9,
+  "total_tokens": 83736043
+ },
+ {
+  "file": "080-mountain-pursuit.png",
+  "saved": "2026-10-28T19:04:31+09:00",
+  "active_seconds": 5306.9,
+  "total_tokens": 84146624
+ },
+ {
+  "file": "081-forest-chase.png",
+  "saved": "2026-10-28T19:04:40+09:00",
+  "active_seconds": 5316.0,
+  "total_tokens": 84559216
+ },
+ {
+  "file": "082-framed-pursuers.png",
+  "saved": "2026-10-28T19:05:29+09:00",
+  "active_seconds": 5365.0,
+  "total_tokens": 86227610
+ },
+ {
+  "file": "083-wider-mountain-chase.png",
+  "saved": "2026-10-28T19:05:48+09:00",
+  "active_seconds": 5383.5,
+  "total_tokens": 87069292
+ },
+ {
+  "file": "084-closing-pursuit.png",
+  "saved": "2026-10-28T19:06:13+09:00",
+  "active_seconds": 5408.4,
+  "total_tokens": 88339931
+ },
+ {
+  "file": "085-counterattack-angle.png",
+  "saved": "2026-10-28T19:06:22+09:00",
+  "active_seconds": 5417.4,
+  "total_tokens": 88765565
+ },
+ {
+  "file": "086-aimed-counterattack.png",
+  "saved": "2026-10-28T19:06:47+09:00",
+  "active_seconds": 5443.2,
+  "total_tokens": 89622845
+ },
+ {
+  "file": "087-incoming-planes.png",
+  "saved": "2026-10-28T19:07:36+09:00",
+  "active_seconds": 5491.5,
+  "total_tokens": 91352173
+ },
+ {
+  "file": "088-penguin-gains-angle.png",
+  "saved": "2026-10-28T19:07:42+09:00",
+  "active_seconds": 5497.7,
+  "total_tokens": 91787934
+ },
+ {
+  "file": "089-counterattack-in-motion.png",
+  "saved": "2026-10-28T19:07:52+09:00",
+  "active_seconds": 5508.1,
+  "total_tokens": 92225885
+ },
+ {
+  "file": "090-first-opponent-hit.png",
+  "saved": "2026-10-28T19:08:19+09:00",
+  "active_seconds": 5535.0,
+  "total_tokens": 93547167
+ },
+ {
+  "file": "091-airframe-propeller.png",
+  "saved": "2026-10-28T19:10:06+09:00",
+  "active_seconds": 5641.6,
+  "total_tokens": 94894600
+ },
+ {
+  "file": "092-pilot-detail.png",
+  "saved": "2026-10-28T19:12:12+09:00",
+  "active_seconds": 5768.0,
+  "total_tokens": 95911239
+ },
+ {
+  "file": "093-chase-playback.png",
+  "saved": "2026-10-28T19:12:24+09:00",
+  "active_seconds": 5780.3,
+  "total_tokens": 96069604
+ },
+ {
+  "file": "094-chase-midpoint.png",
+  "saved": "2026-10-28T19:12:35+09:00",
+  "active_seconds": 5791.3,
+  "total_tokens": 96337880
+ },
+ {
+  "file": "095-mountain-pass-playback.png",
+  "saved": "2026-10-28T19:13:00+09:00",
+  "active_seconds": 5815.6,
+  "total_tokens": 96759816
+ },
+ {
+  "file": "096-playback-replay.png",
+  "saved": "2026-10-28T19:13:42+09:00",
+  "active_seconds": 5858.1,
+  "total_tokens": 97212952
+ },
+ {
+  "file": "097-forest-detail.png",
+  "saved": "2026-10-28T19:13:55+09:00",
+  "active_seconds": 5870.4,
+  "total_tokens": 97450314
+ },
+ {
+  "file": "098-forest-flight.png",
+  "saved": "2026-10-28T19:13:58+09:00",
+  "active_seconds": 5873.7,
+  "total_tokens": 97450314
+ },
+ {
+  "file": "099-forest-tour.png",
+  "saved": "2026-10-28T19:14:08+09:00",
+  "active_seconds": 5883.5,
+  "total_tokens": 97692852
+ },
+ {
+  "file": "100-life-below.png",
+  "saved": "2026-10-28T19:14:45+09:00",
+  "active_seconds": 5920.7,
+  "total_tokens": 98067043
+ },
+ {
+  "file": "101-post-chase-after-seek.png",
+  "saved": "2026-10-28T19:15:23+09:00",
+  "active_seconds": 5958.9,
+  "total_tokens": 98854481
+ },
+ {
+  "file": "102-counterattack-approach.png",
+  "saved": "2026-10-28T19:15:32+09:00",
+  "active_seconds": 5968.3,
+  "total_tokens": 98990134
+ },
+ {
+  "file": "103-final-pass-motion.png",
+  "saved": "2026-10-28T19:15:37+09:00",
+  "active_seconds": 5973.0,
+  "total_tokens": 99127557
+ },
+ {
+  "file": "104-post-chase-review.png",
+  "saved": "2026-10-28T19:15:41+09:00",
+  "active_seconds": 5976.9,
+  "total_tokens": 99266576
+ },
+ {
+  "file": "105-counterattack.png",
+  "saved": "2026-10-28T19:16:13+09:00",
+  "active_seconds": 6008.8,
+  "total_tokens": 99694200
+ },
+ {
+  "file": "106-final-pass-tracers.png",
+  "saved": "2026-10-28T19:16:16+09:00",
+  "active_seconds": 6012.0,
+  "total_tokens": 99838568
+ },
+ {
+  "file": "107-first-explosion.png",
+  "saved": "2026-10-28T19:16:24+09:00",
+  "active_seconds": 6019.5,
+  "total_tokens": 99984422
+ },
+ {
+  "file": "108-post-chase-transition.png",
+  "saved": "2026-10-28T19:16:36+09:00",
+  "active_seconds": 6031.6,
+  "total_tokens": 100131792
+ },
+ {
+  "file": "109-ready-to-watch.png",
+  "saved": "2026-10-28T19:17:00+09:00",
+  "active_seconds": 6056.0,
+  "total_tokens": 100580118
+ },
+ {
+  "file": "110-idle-play-control.png",
+  "saved": "2026-10-28T19:18:04+09:00",
+  "active_seconds": 6119.6,
+  "total_tokens": 101512650
+ },
+ {
+  "file": "111-film-paused.png",
+  "saved": "2026-10-28T19:18:08+09:00",
+  "active_seconds": 6124.0,
+  "total_tokens": 101672805
+ },
+ {
+  "file": "112-final-ready.png",
+  "saved": "2026-10-28T19:18:32+09:00",
+  "active_seconds": 6148.3,
+  "total_tokens": 102486813
+ },
+ {
+  "file": "113-speed-sound-baseline.png",
+  "saved": "2026-10-28T19:31:14+09:00",
+  "active_seconds": 6452.6,
+  "total_tokens": 106612415
+ },
+ {
+  "file": "114-underwater-baseline.png",
+  "saved": "2026-10-28T19:31:47+09:00",
+  "active_seconds": 6485.9,
+  "total_tokens": 106830245
+ },
+ {
+  "file": "115-underwater-habitat.png",
+  "saved": "2026-10-28T19:33:50+09:00",
+  "active_seconds": 6608.1,
+  "total_tokens": 108418436
+ },
+ {
+  "file": "116-water-speed-pass.png",
+  "saved": "2026-10-28T19:39:52+09:00",
+  "active_seconds": 6971.1,
+  "total_tokens": 113028852
+ },
+ {
+  "file": "117-water-normal-wake.png",
+  "saved": "2026-10-28T19:39:57+09:00",
+  "active_seconds": 6975.6,
+  "total_tokens": 113303054
+ },
+ {
+  "file": "118-low-pass-framing.png",
+  "saved": "2026-10-28T19:40:09+09:00",
+  "active_seconds": 6988.0,
+  "total_tokens": 113580570
+ },
+ {
+  "file": "119-low-pass-wake.png",
+  "saved": "2026-10-28T19:40:14+09:00",
+  "active_seconds": 6992.4,
+  "total_tokens": 113580570
+ },
+ {
+  "file": "120-windscreen-rebuild.png",
+  "saved": "2026-10-28T19:46:21+09:00",
+  "active_seconds": 7359.4,
+  "total_tokens": 121563823
+ },
+ {
+  "file": "121-dolphin-overhead.png",
+  "saved": "2026-10-28T19:51:15+09:00",
+  "active_seconds": 7653.9,
+  "total_tokens": 126120510
+ },
+ {
+  "file": "122-snowline-review.png",
+  "saved": "2026-10-28T19:52:06+09:00",
+  "active_seconds": 7705.1,
+  "total_tokens": 128845037
+ },
+ {
+  "file": "123-bird-flock-detail.png",
+  "saved": "2026-10-28T19:52:17+09:00",
+  "active_seconds": 7715.2,
+  "total_tokens": 129190302
+ },
+ {
+  "file": "124-cloud-reflection.png",
+  "saved": "2026-10-28T19:52:29+09:00",
+  "active_seconds": 7727.4,
+  "total_tokens": 129888076
+ },
+ {
+  "file": "125-sunrise-atmosphere.png",
+  "saved": "2026-10-28T19:52:32+09:00",
+  "active_seconds": 7730.9,
+  "total_tokens": 129888076
+ },
+ {
+  "file": "126-soft-scarf.png",
+  "saved": "2026-10-28T19:55:56+09:00",
+  "active_seconds": 7934.4,
+  "total_tokens": 133862541
+ },
+ {
+  "file": "127-fast-pursuit.png",
+  "saved": "2026-10-28T19:59:07+09:00",
+  "active_seconds": 8125.8,
+  "total_tokens": 138418947
+ },
+ {
+  "file": "128-low-pass-action.png",
+  "saved": "2026-10-28T19:59:15+09:00",
+  "active_seconds": 8133.5,
+  "total_tokens": 138418947
+ },
+ {
+  "file": "129-chase-first-explosion.png",
+  "saved": "2026-10-28T19:59:48+09:00",
+  "active_seconds": 8166.7,
+  "total_tokens": 139994939
+ },
+ {
+  "file": "130-chase-replay.png",
+  "saved": "2026-10-28T20:00:00+09:00",
+  "active_seconds": 8178.6,
+  "total_tokens": 140393933
+ },
+ {
+  "file": "131-propeller-flight.png",
+  "saved": "2026-10-28T20:01:09+09:00",
+  "active_seconds": 8247.7,
+  "total_tokens": 142415913
+ },
+ {
+  "file": "132-overhead-flight.png",
+  "saved": "2026-10-28T20:01:21+09:00",
+  "active_seconds": 8259.2,
+  "total_tokens": 143235352
+ },
+ {
+  "file": "133-film-lake-skim.png",
+  "saved": "2026-10-28T20:02:08+09:00",
+  "active_seconds": 8306.3,
+  "total_tokens": 144897548
+ },
+ {
+  "file": "134-woven-scarf-detail.png",
+  "saved": "2026-10-28T20:03:24+09:00",
+  "active_seconds": 8382.7,
+  "total_tokens": 147007454
+ },
+ {
+  "file": "135-scarf-collar-fit.png",
+  "saved": "2026-10-28T20:04:25+09:00",
+  "active_seconds": 8443.2,
+  "total_tokens": 149154201
+ },
+ {
+  "file": "136-pilot-head-motion.png",
+  "saved": "2026-10-28T20:04:54+09:00",
+  "active_seconds": 8472.2,
+  "total_tokens": 150024031
+ },
+ {
+  "file": "137-feathered-birds.png",
+  "saved": "2026-10-28T20:05:21+09:00",
+  "active_seconds": 8499.2,
+  "total_tokens": 150463272
+ },
+ {
+  "file": "138-dolphin-pod.png",
+  "saved": "2026-10-28T20:05:28+09:00",
+  "active_seconds": 8506.6,
+  "total_tokens": 150905649
+ },
+ {
+  "file": "139-dolphin-ripples.png",
+  "saved": "2026-10-28T20:05:36+09:00",
+  "active_seconds": 8514.5,
+  "total_tokens": 151351003
+ },
+ {
+  "file": "140-opening-preview.png",
+  "saved": "2026-10-28T20:08:14+09:00",
+  "active_seconds": 8673.0,
+  "total_tokens": 153244616
+ },
+ {
+  "file": "141-dolphin-shapes.png",
+  "saved": "2026-10-28T20:08:27+09:00",
+  "active_seconds": 8685.5,
+  "total_tokens": 153392676
+ },
+ {
+  "file": "142-chase-projectiles.png",
+  "saved": "2026-10-28T20:08:48+09:00",
+  "active_seconds": 8706.4,
+  "total_tokens": 153711327
+ },
+ {
+  "file": "143-projectile-impact.png",
+  "saved": "2026-10-28T20:10:37+09:00",
+  "active_seconds": 8815.3,
+  "total_tokens": 155064646
+ },
+ {
+  "file": "144-chase-counterattack.png",
+  "saved": "2026-10-28T20:11:57+09:00",
+  "active_seconds": 8895.9,
+  "total_tokens": 156681718
+ },
+ {
+  "file": "145-realism-baseline.png",
+  "saved": "2026-10-28T20:41:18+09:00",
+  "active_seconds": 9000.9,
+  "total_tokens": 158107706
+ },
+ {
+  "file": "146-scarf-joined.png",
+  "saved": "2026-10-28T20:46:52+09:00",
+  "active_seconds": 9334.9,
+  "total_tokens": 162514285
+ },
+ {
+  "file": "147-scarf-daylight.png",
+  "saved": "2026-10-28T20:47:04+09:00",
+  "active_seconds": 9347.5,
+  "total_tokens": 162938004
+ },
+ {
+  "file": "148-cowling-and-spinner.png",
+  "saved": "2026-10-28T20:47:14+09:00",
+  "active_seconds": 9357.1,
+  "total_tokens": 163151807
+ },
+ {
+  "file": "149-spinner-detail.png",
+  "saved": "2026-10-28T20:47:17+09:00",
+  "active_seconds": 9360.8,
+  "total_tokens": 163367517
+ },
+ {
+  "file": "150-farewell-camera.png",
+  "saved": "2026-10-28T20:49:15+09:00",
+  "active_seconds": 9478.5,
+  "total_tokens": 166273879
+ },
+ {
+  "file": "151-farewell-wink.png",
+  "saved": "2026-10-28T20:49:22+09:00",
+  "active_seconds": 9485.4,
+  "total_tokens": 166963430
+ },
+ {
+  "file": "152-closing-approach.png",
+  "saved": "2026-10-28T20:49:52+09:00",
+  "active_seconds": 9515.0,
+  "total_tokens": 167667343
+ },
+ {
+  "file": "153-departure-shot.png",
+  "saved": "2026-10-28T20:52:12+09:00",
+  "active_seconds": 9655.1,
+  "total_tokens": 169606787
+ },
+ {
+  "file": "154-wink-freeze.png",
+  "saved": "2026-10-28T20:56:44+09:00",
+  "active_seconds": 9927.2,
+  "total_tokens": 175171294
+ },
+ {
+  "file": "155-freeze-frame-a.png",
+  "saved": "2026-10-28T20:57:00+09:00",
+  "active_seconds": 9943.2,
+  "total_tokens": 175450094
+ },
+ {
+  "file": "156-freeze-frame-b.png",
+  "saved": "2026-10-28T20:57:00+09:00",
+  "active_seconds": 9943.2,
+  "total_tokens": 175450094
+ },
+ {
+  "file": "157-climbing-departure-a.png",
+  "saved": "2026-10-28T20:57:45+09:00",
+  "active_seconds": 9988.0,
+  "total_tokens": 177157267
+ },
+ {
+  "file": "158-climbing-departure-b.png",
+  "saved": "2026-10-28T20:57:45+09:00",
+  "active_seconds": 9988.0,
+  "total_tokens": 177157267
+ },
+ {
+  "file": "159-snowline-review-a.png",
+  "saved": "2026-10-28T20:58:00+09:00",
+  "active_seconds": 10003.1,
+  "total_tokens": 177448477
+ },
+ {
+  "file": "160-snowline-review-b.png",
+  "saved": "2026-10-28T20:58:00+09:00",
+  "active_seconds": 10003.1,
+  "total_tokens": 177448477
+ },
+ {
+  "file": "161-wink-hold-a.png",
+  "saved": "2026-10-28T20:58:12+09:00",
+  "active_seconds": 10015.2,
+  "total_tokens": 177743114
+ },
+ {
+  "file": "162-wink-hold-b.png",
+  "saved": "2026-10-28T20:58:12+09:00",
+  "active_seconds": 10015.2,
+  "total_tokens": 177743114
+ },
+ {
+  "file": "163-final-wink-effect.png",
+  "saved": "2026-10-28T21:00:52+09:00",
+  "active_seconds": 10175.0,
+  "total_tokens": 182114711
+ },
+ {
+  "file": "164-lake-and-chase.png",
+  "saved": "2026-10-28T21:01:43+09:00",
+  "active_seconds": 10226.2,
+  "total_tokens": 183736737
+ },
+ {
+  "file": "165-live-farewell.png",
+  "saved": "2026-10-28T21:02:27+09:00",
+  "active_seconds": 10270.7,
+  "total_tokens": 185061177
+ },
+ {
+  "file": "166-scarf-connection.png",
+  "saved": "2026-10-28T21:02:57+09:00",
+  "active_seconds": 10300.4,
+  "total_tokens": 186742909
+ },
+ {
+  "file": "167-bird-flocks.png",
+  "saved": "2026-10-28T21:03:19+09:00",
+  "active_seconds": 10322.0,
+  "total_tokens": 187426590
+ },
+ {
+  "file": "168-dolphin-pod.png",
+  "saved": "2026-10-28T21:03:23+09:00",
+  "active_seconds": 10325.9,
+  "total_tokens": 187772126
+ },
+ {
+  "file": "169-wink-and-motion-echo.png",
+  "saved": "2026-10-28T21:03:56+09:00",
+  "active_seconds": 10359.5,
+  "total_tokens": 188472591
+ },
+ {
+  "file": "170-final-wink.png",
+  "saved": "2026-10-28T21:04:14+09:00",
+  "active_seconds": 10377.4,
+  "total_tokens": 189180979
+ },
+ {
+  "file": "171-wink-lighting.png",
+  "saved": "2026-10-28T21:04:54+09:00",
+  "active_seconds": 10417.3,
+  "total_tokens": 190258663
+ },
+ {
+  "file": "172-wink-final-light.png",
+  "saved": "2026-10-28T21:05:25+09:00",
+  "active_seconds": 10448.3,
+  "total_tokens": 191346912
+ },
+ {
+  "file": "173-smooth-freeze-echo.png",
+  "saved": "2026-10-28T21:05:46+09:00",
+  "active_seconds": 10469.6,
+  "total_tokens": 192081879
+ },
+ {
+  "file": "174-farewell-freeze.png",
+  "saved": "2026-10-28T21:06:31+09:00",
+  "active_seconds": 10514.3,
+  "total_tokens": 193945455
+ },
+ {
+  "file": "175-ready-to-play.png",
+  "saved": "2026-10-28T21:06:38+09:00",
+  "active_seconds": 10521.2,
+  "total_tokens": 194322118
+ },
+ {
+  "file": "176-ending-retime-baseline.png",
+  "saved": "2026-10-28T21:20:52+09:00",
+  "active_seconds": 10607.6,
+  "total_tokens": 196605300
+ },
+ {
+  "file": "177-continuous-farewell-approach.png",
+  "saved": "2026-10-28T21:35:23+09:00",
+  "active_seconds": 11477.9,
+  "total_tokens": 221273979
+ },
+ {
+  "file": "178-dolphin-pod-progress.png",
+  "saved": "2026-10-28T21:36:02+09:00",
+  "active_seconds": 11517.1,
+  "total_tokens": 221812815
+ },
+ {
+  "file": "179-farewell-motion-2.png",
+  "saved": "2026-10-28T21:36:03+09:00",
+  "active_seconds": 11517.9,
+  "total_tokens": 221812815
+ },
+ {
+  "file": "180-farewell-motion-3.png",
+  "saved": "2026-10-28T21:36:03+09:00",
+  "active_seconds": 11518.8,
+  "total_tokens": 221812815
+ },
+ {
+  "file": "181-farewell-motion-4.png",
+  "saved": "2026-10-28T21:36:04+09:00",
+  "active_seconds": 11519.6,
+  "total_tokens": 221812815
+ },
+ {
+  "file": "182-farewell-motion-5.png",
+  "saved": "2026-10-28T21:36:05+09:00",
+  "active_seconds": 11520.4,
+  "total_tokens": 221812815
+ },
+ {
+  "file": "183-farewell-motion-6.png",
+  "saved": "2026-10-28T21:36:06+09:00",
+  "active_seconds": 11521.3,
+  "total_tokens": 221812815
+ },
+ {
+  "file": "184-farewell-motion-7.png",
+  "saved": "2026-10-28T21:36:07+09:00",
+  "active_seconds": 11522.1,
+  "total_tokens": 221812815
+ },
+ {
+  "file": "185-farewell-motion-8.png",
+  "saved": "2026-10-28T21:36:08+09:00",
+  "active_seconds": 11522.9,
+  "total_tokens": 221812815
+ },
+ {
+  "file": "186-farewell-motion-9.png",
+  "saved": "2026-10-28T21:36:08+09:00",
+  "active_seconds": 11523.7,
+  "total_tokens": 221812815
+ },
+ {
+  "file": "187-pursuit-across-the-lake.png",
+  "saved": "2026-10-28T21:36:51+09:00",
+  "active_seconds": 11566.8,
+  "total_tokens": 222633934
+ },
+ {
+  "file": "188-mountain-evasion.png",
+  "saved": "2026-10-28T21:37:11+09:00",
+  "active_seconds": 11586.4,
+  "total_tokens": 222748738
+ },
+ {
+  "file": "189-reflected-water-impacts.png",
+  "saved": "2026-10-28T21:39:06+09:00",
+  "active_seconds": 11701.8,
+  "total_tokens": 224441746
+ },
+ {
+  "file": "190-final-playback-1.png",
+  "saved": "2026-10-28T21:39:47+09:00",
+  "active_seconds": 11742.6,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "191-final-playback-2.png",
+  "saved": "2026-10-28T21:39:48+09:00",
+  "active_seconds": 11743.5,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "192-final-playback-3.png",
+  "saved": "2026-10-28T21:39:49+09:00",
+  "active_seconds": 11744.4,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "193-final-playback-4.png",
+  "saved": "2026-10-28T21:39:50+09:00",
+  "active_seconds": 11745.4,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "194-final-playback-5.png",
+  "saved": "2026-10-28T21:39:51+09:00",
+  "active_seconds": 11746.3,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "195-final-playback-6.png",
+  "saved": "2026-10-28T21:39:52+09:00",
+  "active_seconds": 11747.3,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "196-final-playback-7.png",
+  "saved": "2026-10-28T21:39:53+09:00",
+  "active_seconds": 11748.2,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "197-final-playback-8.png",
+  "saved": "2026-10-28T21:39:54+09:00",
+  "active_seconds": 11749.1,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "198-final-playback-9.png",
+  "saved": "2026-10-28T21:39:55+09:00",
+  "active_seconds": 11750.2,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "199-final-playback-10.png",
+  "saved": "2026-10-28T21:39:56+09:00",
+  "active_seconds": 11751.1,
+  "total_tokens": 225020781
+ },
+ {
+  "file": "200-ready-to-watch.png",
+  "saved": "2026-10-28T21:40:24+09:00",
+  "active_seconds": 11778.9,
+  "total_tokens": 225511037
+ },
+ {
+  "file": "201-reversal-before-rework.png",
+  "saved": "2026-10-28T22:09:48+09:00",
+  "active_seconds": 11992.2,
+  "total_tokens": 228741006
+ },
+ {
+  "file": "202-overshoot-first-pass-1.png",
+  "saved": "2026-10-28T22:14:13+09:00",
+  "active_seconds": 12257.8,
+  "total_tokens": 231674109
+ },
+ {
+  "file": "203-overshoot-first-pass-2.png",
+  "saved": "2026-10-28T22:14:14+09:00",
+  "active_seconds": 12258.6,
+  "total_tokens": 231674109
+ },
+ {
+  "file": "204-overshoot-first-pass-3.png",
+  "saved": "2026-10-28T22:14:15+09:00",
+  "active_seconds": 12259.4,
+  "total_tokens": 231674109
+ },
+ {
+  "file": "205-overshoot-first-pass-4.png",
+  "saved": "2026-10-28T22:14:16+09:00",
+  "active_seconds": 12260.1,
+  "total_tokens": 231674109
+ },
+ {
+  "file": "206-overshoot-first-pass-5.png",
+  "saved": "2026-10-28T22:14:16+09:00",
+  "active_seconds": 12260.9,
+  "total_tokens": 231674109
+ },
+ {
+  "file": "207-overshoot-first-pass-6.png",
+  "saved": "2026-10-28T22:14:17+09:00",
+  "active_seconds": 12261.6,
+  "total_tokens": 231674109
+ },
+ {
+  "file": "208-overshoot-first-pass-7.png",
+  "saved": "2026-10-28T22:14:18+09:00",
+  "active_seconds": 12262.5,
+  "total_tokens": 231674109
+ },
+ {
+  "file": "209-overshoot-first-pass-8.png",
+  "saved": "2026-10-28T22:14:19+09:00",
+  "active_seconds": 12263.3,
+  "total_tokens": 231674109
+ },
+ {
+  "file": "210-pilot-overshoot-composition-1.png",
+  "saved": "2026-10-28T22:15:06+09:00",
+  "active_seconds": 12310.2,
+  "total_tokens": 232161634
+ },
+ {
+  "file": "211-pilot-overshoot-composition-2.png",
+  "saved": "2026-10-28T22:15:07+09:00",
+  "active_seconds": 12311.1,
+  "total_tokens": 232161634
+ },
+ {
+  "file": "212-pilot-overshoot-composition-3.png",
+  "saved": "2026-10-28T22:15:07+09:00",
+  "active_seconds": 12311.8,
+  "total_tokens": 232161634
+ },
+ {
+  "file": "213-pilot-overshoot-composition-4.png",
+  "saved": "2026-10-28T22:15:08+09:00",
+  "active_seconds": 12312.6,
+  "total_tokens": 232161634
+ },
+ {
+  "file": "214-pilot-overshoot-composition-5.png",
+  "saved": "2026-10-28T22:15:09+09:00",
+  "active_seconds": 12313.4,
+  "total_tokens": 232161634
+ },
+ {
+  "file": "215-pilot-glance-1.png",
+  "saved": "2026-10-28T22:15:36+09:00",
+  "active_seconds": 12340.6,
+  "total_tokens": 232659055
+ },
+ {
+  "file": "216-pilot-glance-2.png",
+  "saved": "2026-10-28T22:15:37+09:00",
+  "active_seconds": 12341.3,
+  "total_tokens": 232659055
+ },
+ {
+  "file": "217-pilot-glance-3.png",
+  "saved": "2026-10-28T22:15:37+09:00",
+  "active_seconds": 12341.9,
+  "total_tokens": 232659055
+ },
+ {
+  "file": "218-pilot-glance-4.png",
+  "saved": "2026-10-28T22:15:38+09:00",
+  "active_seconds": 12342.5,
+  "total_tokens": 232659055
+ },
+ {
+  "file": "219-pilot-glance-5.png",
+  "saved": "2026-10-28T22:15:39+09:00",
+  "active_seconds": 12343.1,
+  "total_tokens": 232659055
+ },
+ {
+  "file": "220-pilot-glance-6.png",
+  "saved": "2026-10-28T22:15:39+09:00",
+  "active_seconds": 12343.7,
+  "total_tokens": 232659055
+ },
+ {
+  "file": "221-downward-glance-1.png",
+  "saved": "2026-10-28T22:16:45+09:00",
+  "active_seconds": 12409.2,
+  "total_tokens": 234195765
+ },
+ {
+  "file": "222-downward-glance-2.png",
+  "saved": "2026-10-28T22:16:45+09:00",
+  "active_seconds": 12409.7,
+  "total_tokens": 234195765
+ },
+ {
+  "file": "223-downward-glance-3.png",
+  "saved": "2026-10-28T22:16:46+09:00",
+  "active_seconds": 12410.3,
+  "total_tokens": 234195765
+ },
+ {
+  "file": "224-downward-glance-4.png",
+  "saved": "2026-10-28T22:16:46+09:00",
+  "active_seconds": 12410.9,
+  "total_tokens": 234195765
+ },
+ {
+  "file": "225-downward-glance-5.png",
+  "saved": "2026-10-28T22:16:47+09:00",
+  "active_seconds": 12411.5,
+  "total_tokens": 234195765
+ },
+ {
+  "file": "226-downward-glance-6.png",
+  "saved": "2026-10-28T22:16:48+09:00",
+  "active_seconds": 12412.1,
+  "total_tokens": 234195765
+ },
+ {
+  "file": "227-downward-glance-7.png",
+  "saved": "2026-10-28T22:16:48+09:00",
+  "active_seconds": 12412.7,
+  "total_tokens": 234195765
+ },
+ {
+  "file": "228-downward-glance-8.png",
+  "saved": "2026-10-28T22:16:49+09:00",
+  "active_seconds": 12413.2,
+  "total_tokens": 234195765
+ },
+ {
+  "file": "229-pilot-glance-refined-1.png",
+  "saved": "2026-10-28T22:17:15+09:00",
+  "active_seconds": 12440.0,
+  "total_tokens": 234720250
+ },
+ {
+  "file": "230-pilot-glance-refined-2.png",
+  "saved": "2026-10-28T22:17:16+09:00",
+  "active_seconds": 12440.5,
+  "total_tokens": 234720250
+ },
+ {
+  "file": "231-pilot-glance-refined-3.png",
+  "saved": "2026-10-28T22:17:17+09:00",
+  "active_seconds": 12441.0,
+  "total_tokens": 234720250
+ },
+ {
+  "file": "232-pilot-glance-refined-4.png",
+  "saved": "2026-10-28T22:17:17+09:00",
+  "active_seconds": 12441.6,
+  "total_tokens": 234720250
+ },
+ {
+  "file": "233-pilot-glance-refined-5.png",
+  "saved": "2026-10-28T22:17:18+09:00",
+  "active_seconds": 12442.1,
+  "total_tokens": 234720250
+ },
+ {
+  "file": "234-pilot-glance-refined-6.png",
+  "saved": "2026-10-28T22:17:18+09:00",
+  "active_seconds": 12442.7,
+  "total_tokens": 234720250
+ },
+ {
+  "file": "235-pilot-glance-refined-7.png",
+  "saved": "2026-10-28T22:17:19+09:00",
+  "active_seconds": 12443.2,
+  "total_tokens": 234720250
+ },
+ {
+  "file": "236-dive-counterattack-1.png",
+  "saved": "2026-10-28T22:17:26+09:00",
+  "active_seconds": 12450.4,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "237-dive-counterattack-2.png",
+  "saved": "2026-10-28T22:17:27+09:00",
+  "active_seconds": 12451.1,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "238-dive-counterattack-3.png",
+  "saved": "2026-10-28T22:17:27+09:00",
+  "active_seconds": 12451.8,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "239-dive-counterattack-4.png",
+  "saved": "2026-10-28T22:17:28+09:00",
+  "active_seconds": 12452.5,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "240-dive-counterattack-5.png",
+  "saved": "2026-10-28T22:17:29+09:00",
+  "active_seconds": 12453.2,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "241-dive-counterattack-6.png",
+  "saved": "2026-10-28T22:17:29+09:00",
+  "active_seconds": 12453.9,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "242-dive-counterattack-7.png",
+  "saved": "2026-10-28T22:17:30+09:00",
+  "active_seconds": 12454.6,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "243-dive-counterattack-8.png",
+  "saved": "2026-10-28T22:17:31+09:00",
+  "active_seconds": 12455.4,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "244-dive-counterattack-9.png",
+  "saved": "2026-10-28T22:17:32+09:00",
+  "active_seconds": 12456.1,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "245-dive-counterattack-10.png",
+  "saved": "2026-10-28T22:17:32+09:00",
+  "active_seconds": 12456.8,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "246-dive-counterattack-11.png",
+  "saved": "2026-10-28T22:17:33+09:00",
+  "active_seconds": 12457.5,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "247-dive-counterattack-12.png",
+  "saved": "2026-10-28T22:17:34+09:00",
+  "active_seconds": 12458.2,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "248-reworked-farewell.png",
+  "saved": "2026-10-28T22:17:39+09:00",
+  "active_seconds": 12463.5,
+  "total_tokens": 234986214
+ },
+ {
+  "file": "249-counterattack-impact-1.png",
+  "saved": "2026-10-28T22:17:47+09:00",
+  "active_seconds": 12471.3,
+  "total_tokens": 235533584
+ },
+ {
+  "file": "250-counterattack-impact-2.png",
+  "saved": "2026-10-28T22:17:47+09:00",
+  "active_seconds": 12471.8,
+  "total_tokens": 235533584
+ },
+ {
+  "file": "251-counterattack-impact-3.png",
+  "saved": "2026-10-28T22:17:48+09:00",
+  "active_seconds": 12472.4,
+  "total_tokens": 235533584
+ },
+ {
+  "file": "252-counterattack-impact-4.png",
+  "saved": "2026-10-28T22:17:48+09:00",
+  "active_seconds": 12473.0,
+  "total_tokens": 235533584
+ },
+ {
+  "file": "253-counterattack-impact-5.png",
+  "saved": "2026-10-28T22:17:49+09:00",
+  "active_seconds": 12473.5,
+  "total_tokens": 235533584
+ },
+ {
+  "file": "254-counterattack-impact-6.png",
+  "saved": "2026-10-28T22:17:50+09:00",
+  "active_seconds": 12474.1,
+  "total_tokens": 235533584
+ },
+ {
+  "file": "255-counterattack-impact-7.png",
+  "saved": "2026-10-28T22:17:50+09:00",
+  "active_seconds": 12474.6,
+  "total_tokens": 235533584
+ },
+ {
+  "file": "256-counterattack-impact-8.png",
+  "saved": "2026-10-28T22:17:51+09:00",
+  "active_seconds": 12475.2,
+  "total_tokens": 235533584
+ },
+ {
+  "file": "257-counterattack-impact-9.png",
+  "saved": "2026-10-28T22:17:51+09:00",
+  "active_seconds": 12475.8,
+  "total_tokens": 235533584
+ },
+ {
+  "file": "258-inverted-apex-1.png",
+  "saved": "2026-10-28T22:20:55+09:00",
+  "active_seconds": 12659.6,
+  "total_tokens": 239838252
+ },
+ {
+  "file": "259-inverted-apex-2.png",
+  "saved": "2026-10-28T22:20:56+09:00",
+  "active_seconds": 12660.1,
+  "total_tokens": 239838252
+ },
+ {
+  "file": "260-inverted-apex-3.png",
+  "saved": "2026-10-28T22:20:56+09:00",
+  "active_seconds": 12660.6,
+  "total_tokens": 239838252
+ },
+ {
+  "file": "261-inverted-apex-4.png",
+  "saved": "2026-10-28T22:20:57+09:00",
+  "active_seconds": 12661.1,
+  "total_tokens": 239838252
+ },
+ {
+  "file": "262-inverted-apex-5.png",
+  "saved": "2026-10-28T22:20:57+09:00",
+  "active_seconds": 12661.6,
+  "total_tokens": 239838252
+ },
+ {
+  "file": "263-inverted-apex-6.png",
+  "saved": "2026-10-28T22:20:58+09:00",
+  "active_seconds": 12662.1,
+  "total_tokens": 239838252
+ },
+ {
+  "file": "264-inverted-apex-7.png",
+  "saved": "2026-10-28T22:20:58+09:00",
+  "active_seconds": 12662.6,
+  "total_tokens": 239838252
+ },
+ {
+  "file": "265-harnessed-inverted-apex-1.png",
+  "saved": "2026-10-28T22:22:17+09:00",
+  "active_seconds": 12741.5,
+  "total_tokens": 241695683
+ },
+ {
+  "file": "266-harnessed-inverted-apex-2.png",
+  "saved": "2026-10-28T22:22:18+09:00",
+  "active_seconds": 12742.0,
+  "total_tokens": 241695683
+ },
+ {
+  "file": "267-harnessed-inverted-apex-3.png",
+  "saved": "2026-10-28T22:22:18+09:00",
+  "active_seconds": 12742.5,
+  "total_tokens": 241695683
+ },
+ {
+  "file": "268-harnessed-inverted-apex-4.png",
+  "saved": "2026-10-28T22:22:18+09:00",
+  "active_seconds": 12742.9,
+  "total_tokens": 241695683
+ },
+ {
+  "file": "269-harnessed-inverted-apex-5.png",
+  "saved": "2026-10-28T22:22:19+09:00",
+  "active_seconds": 12743.4,
+  "total_tokens": 241695683
+ },
+ {
+  "file": "270-harnessed-inverted-apex-6.png",
+  "saved": "2026-10-28T22:22:19+09:00",
+  "active_seconds": 12743.8,
+  "total_tokens": 241695683
+ },
+ {
+  "file": "271-harness-farewell-1.png",
+  "saved": "2026-10-28T22:22:29+09:00",
+  "active_seconds": 12754.0,
+  "total_tokens": 242014843
+ },
+ {
+  "file": "272-harness-farewell-2.png",
+  "saved": "2026-10-28T22:22:30+09:00",
+  "active_seconds": 12754.6,
+  "total_tokens": 242014843
+ },
+ {
+  "file": "273-harness-farewell-3.png",
+  "saved": "2026-10-28T22:22:31+09:00",
+  "active_seconds": 12755.2,
+  "total_tokens": 242014843
+ },
+ {
+  "file": "274-harness-farewell-4.png",
+  "saved": "2026-10-28T22:22:31+09:00",
+  "active_seconds": 12755.8,
+  "total_tokens": 242014843
+ },
+ {
+  "file": "275-harness-farewell-5.png",
+  "saved": "2026-10-28T22:22:32+09:00",
+  "active_seconds": 12756.3,
+  "total_tokens": 242014843
+ },
+ {
+  "file": "276-ready-to-rewatch.png",
+  "saved": "2026-10-28T22:22:53+09:00",
+  "active_seconds": 12777.3,
+  "total_tokens": 242988080
+ },
+ {
+  "file": "277-overhead-lake-before.png",
+  "saved": "2026-10-28T22:27:33+09:00",
+  "active_seconds": 12989.1,
+  "total_tokens": 248703006
+ },
+ {
+  "file": "278-overhead-lake-first-pass.png",
+  "saved": "2026-10-28T22:29:45+09:00",
+  "active_seconds": 13121.1,
+  "total_tokens": 251675258
+ },
+ {
+  "file": "279-overhead-lake-evaluated.png",
+  "saved": "2026-10-28T22:29:49+09:00",
+  "active_seconds": 13125.8,
+  "total_tokens": 252051234
+ },
+ {
+  "file": "280-lake-depth-progress-1.png",
+  "saved": "2026-10-28T22:30:29+09:00",
+  "active_seconds": 13164.9,
+  "total_tokens": 252810389
+ },
+ {
+  "file": "281-lake-depth-progress-2.png",
+  "saved": "2026-10-28T22:30:29+09:00",
+  "active_seconds": 13165.5,
+  "total_tokens": 252810389
+ },
+ {
+  "file": "282-lake-depth-progress-3.png",
+  "saved": "2026-10-28T22:30:30+09:00",
+  "active_seconds": 13166.1,
+  "total_tokens": 252810389
+ },
+ {
+  "file": "283-lake-depth-progress-4.png",
+  "saved": "2026-10-28T22:30:30+09:00",
+  "active_seconds": 13166.7,
+  "total_tokens": 252810389
+ },
+ {
+  "file": "284-lake-depth-progress-5.png",
+  "saved": "2026-10-28T22:30:31+09:00",
+  "active_seconds": 13167.3,
+  "total_tokens": 252810389
+ },
+ {
+  "file": "285-clear-water-refinement-1.png",
+  "saved": "2026-10-28T22:31:39+09:00",
+  "active_seconds": 13235.5,
+  "total_tokens": 253585122
+ },
+ {
+  "file": "286-clear-water-refinement-2.png",
+  "saved": "2026-10-28T22:31:40+09:00",
+  "active_seconds": 13236.1,
+  "total_tokens": 253585122
+ },
+ {
+  "file": "287-clear-water-refinement-3.png",
+  "saved": "2026-10-28T22:31:40+09:00",
+  "active_seconds": 13236.8,
+  "total_tokens": 253585122
+ },
+ {
+  "file": "288-clear-water-refinement-4.png",
+  "saved": "2026-10-28T22:31:41+09:00",
+  "active_seconds": 13237.4,
+  "total_tokens": 253585122
+ },
+ {
+  "file": "289-lakebed-shading-1.png",
+  "saved": "2026-10-28T22:32:01+09:00",
+  "active_seconds": 13257.5,
+  "total_tokens": 254369660
+ },
+ {
+  "file": "290-lakebed-shading-2.png",
+  "saved": "2026-10-28T22:32:02+09:00",
+  "active_seconds": 13258.1,
+  "total_tokens": 254369660
+ },
+ {
+  "file": "291-lakebed-shading-3.png",
+  "saved": "2026-10-28T22:32:02+09:00",
+  "active_seconds": 13258.7,
+  "total_tokens": 254369660
+ },
+ {
+  "file": "292-lakebed-shading-4.png",
+  "saved": "2026-10-28T22:32:03+09:00",
+  "active_seconds": 13259.3,
+  "total_tokens": 254369660
+ },
+ {
+  "file": "293-underwater-view-check.png",
+  "saved": "2026-10-28T22:32:24+09:00",
+  "active_seconds": 13280.3,
+  "total_tokens": 254766221
+ },
+ {
+  "file": "294-lake-reflection-check.png",
+  "saved": "2026-10-28T22:32:36+09:00",
+  "active_seconds": 13292.9,
+  "total_tokens": 255164200
+ },
+ {
+  "file": "295-dolphin-before-1.png",
+  "saved": "2026-10-28T22:33:54+09:00",
+  "active_seconds": 13369.9,
+  "total_tokens": 256374045
+ },
+ {
+  "file": "296-dolphin-before-2.png",
+  "saved": "2026-10-28T22:33:54+09:00",
+  "active_seconds": 13370.7,
+  "total_tokens": 256374045
+ },
+ {
+  "file": "297-dolphin-before-3.png",
+  "saved": "2026-10-28T22:33:55+09:00",
+  "active_seconds": 13371.5,
+  "total_tokens": 256374045
+ },
+ {
+  "file": "298-dolphin-before-4.png",
+  "saved": "2026-10-28T22:33:56+09:00",
+  "active_seconds": 13372.2,
+  "total_tokens": 256374045
+ },
+ {
+  "file": "299-dolphin-before-5.png",
+  "saved": "2026-10-28T22:33:57+09:00",
+  "active_seconds": 13372.9,
+  "total_tokens": 256374045
+ },
+ {
+  "file": "300-dolphin-before-6.png",
+  "saved": "2026-10-28T22:33:57+09:00",
+  "active_seconds": 13373.6,
+  "total_tokens": 256374045
+ },
+ {
+  "file": "301-dolphin-existing-1.png",
+  "saved": "2026-10-28T22:34:25+09:00",
+  "active_seconds": 13401.6,
+  "total_tokens": 258034687
+ },
+ {
+  "file": "302-dolphin-existing-2.png",
+  "saved": "2026-10-28T22:34:26+09:00",
+  "active_seconds": 13402.1,
+  "total_tokens": 258034687
+ },
+ {
+  "file": "303-dolphin-existing-3.png",
+  "saved": "2026-10-28T22:34:26+09:00",
+  "active_seconds": 13402.6,
+  "total_tokens": 258034687
+ },
+ {
+  "file": "304-dolphin-existing-4.png",
+  "saved": "2026-10-28T22:34:27+09:00",
+  "active_seconds": 13403.1,
+  "total_tokens": 258034687
+ },
+ {
+  "file": "305-dolphin-existing-5.png",
+  "saved": "2026-10-28T22:34:27+09:00",
+  "active_seconds": 13403.6,
+  "total_tokens": 258034687
+ },
+ {
+  "file": "306-dolphin-existing-6.png",
+  "saved": "2026-10-28T22:34:28+09:00",
+  "active_seconds": 13404.1,
+  "total_tokens": 258034687
+ },
+ {
+  "file": "307-dolphin-existing-7.png",
+  "saved": "2026-10-28T22:34:28+09:00",
+  "active_seconds": 13404.6,
+  "total_tokens": 258034687
+ },
+ {
+  "file": "308-dolphin-existing-8.png",
+  "saved": "2026-10-28T22:34:29+09:00",
+  "active_seconds": 13405.1,
+  "total_tokens": 258034687
+ },
+ {
+  "file": "309-dolphin-existing-9.png",
+  "saved": "2026-10-28T22:34:29+09:00",
+  "active_seconds": 13405.6,
+  "total_tokens": 258034687
+ },
+ {
+  "file": "310-overhead-water-revision.png",
+  "saved": "2026-10-28T22:41:15+09:00",
+  "active_seconds": 13811.3,
+  "total_tokens": 266159469
+ },
+ {
+  "file": "311-dolphin-contact-0.png",
+  "saved": "2026-10-28T22:41:28+09:00",
+  "active_seconds": 13824.4,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "312-dolphin-contact-1.png",
+  "saved": "2026-10-28T22:41:28+09:00",
+  "active_seconds": 13824.8,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "313-dolphin-contact-2.png",
+  "saved": "2026-10-28T22:41:29+09:00",
+  "active_seconds": 13825.2,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "314-dolphin-contact-3.png",
+  "saved": "2026-10-28T22:41:29+09:00",
+  "active_seconds": 13825.5,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "315-dolphin-contact-4.png",
+  "saved": "2026-10-28T22:41:30+09:00",
+  "active_seconds": 13825.9,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "316-dolphin-contact-5.png",
+  "saved": "2026-10-28T22:41:30+09:00",
+  "active_seconds": 13826.2,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "317-dolphin-contact-6.png",
+  "saved": "2026-10-28T22:41:30+09:00",
+  "active_seconds": 13826.6,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "318-dolphin-contact-7.png",
+  "saved": "2026-10-28T22:41:31+09:00",
+  "active_seconds": 13827.0,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "319-dolphin-contact-8.png",
+  "saved": "2026-10-28T22:41:31+09:00",
+  "active_seconds": 13827.3,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "320-dolphin-contact-9.png",
+  "saved": "2026-10-28T22:41:31+09:00",
+  "active_seconds": 13827.7,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "321-dolphin-contact-10.png",
+  "saved": "2026-10-28T22:41:32+09:00",
+  "active_seconds": 13828.1,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "322-dolphin-contact-11.png",
+  "saved": "2026-10-28T22:41:32+09:00",
+  "active_seconds": 13828.4,
+  "total_tokens": 266356760
+ },
+ {
+  "file": "323-dolphin-foam-refined-0.png",
+  "saved": "2026-10-28T22:42:42+09:00",
+  "active_seconds": 13898.2,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "324-dolphin-foam-refined-1.png",
+  "saved": "2026-10-28T22:42:42+09:00",
+  "active_seconds": 13898.5,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "325-dolphin-foam-refined-2.png",
+  "saved": "2026-10-28T22:42:42+09:00",
+  "active_seconds": 13898.8,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "326-dolphin-foam-refined-3.png",
+  "saved": "2026-10-28T22:42:43+09:00",
+  "active_seconds": 13899.2,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "327-dolphin-foam-refined-4.png",
+  "saved": "2026-10-28T22:42:43+09:00",
+  "active_seconds": 13899.5,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "328-dolphin-foam-refined-5.png",
+  "saved": "2026-10-28T22:42:43+09:00",
+  "active_seconds": 13899.8,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "329-dolphin-foam-refined-6.png",
+  "saved": "2026-10-28T22:42:44+09:00",
+  "active_seconds": 13900.2,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "330-dolphin-foam-refined-7.png",
+  "saved": "2026-10-28T22:42:44+09:00",
+  "active_seconds": 13900.5,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "331-dolphin-foam-refined-8.png",
+  "saved": "2026-10-28T22:42:45+09:00",
+  "active_seconds": 13900.9,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "332-dolphin-foam-refined-9.png",
+  "saved": "2026-10-28T22:42:45+09:00",
+  "active_seconds": 13901.3,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "333-dolphin-foam-refined-10.png",
+  "saved": "2026-10-28T22:42:45+09:00",
+  "active_seconds": 13901.6,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "334-dolphin-foam-refined-11.png",
+  "saved": "2026-10-28T22:42:46+09:00",
+  "active_seconds": 13902.0,
+  "total_tokens": 267086858
+ },
+ {
+  "file": "335-low-pass-impact-0.png",
+  "saved": "2026-10-28T22:42:56+09:00",
+  "active_seconds": 13912.0,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "336-low-pass-impact-1.png",
+  "saved": "2026-10-28T22:42:56+09:00",
+  "active_seconds": 13912.3,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "337-low-pass-impact-2.png",
+  "saved": "2026-10-28T22:42:56+09:00",
+  "active_seconds": 13912.6,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "338-low-pass-impact-3.png",
+  "saved": "2026-10-28T22:42:57+09:00",
+  "active_seconds": 13912.9,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "339-low-pass-impact-4.png",
+  "saved": "2026-10-28T22:42:57+09:00",
+  "active_seconds": 13913.2,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "340-low-pass-impact-5.png",
+  "saved": "2026-10-28T22:42:57+09:00",
+  "active_seconds": 13913.5,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "341-low-pass-impact-6.png",
+  "saved": "2026-10-28T22:42:57+09:00",
+  "active_seconds": 13913.8,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "342-low-pass-impact-7.png",
+  "saved": "2026-10-28T22:42:58+09:00",
+  "active_seconds": 13914.1,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "343-low-pass-impact-8.png",
+  "saved": "2026-10-28T22:42:58+09:00",
+  "active_seconds": 13914.5,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "344-low-pass-impact-9.png",
+  "saved": "2026-10-28T22:42:58+09:00",
+  "active_seconds": 13914.7,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "345-low-pass-impact-10.png",
+  "saved": "2026-10-28T22:42:59+09:00",
+  "active_seconds": 13915.1,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "346-low-pass-impact-11.png",
+  "saved": "2026-10-28T22:42:59+09:00",
+  "active_seconds": 13915.4,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "347-low-pass-impact-12.png",
+  "saved": "2026-10-28T22:42:59+09:00",
+  "active_seconds": 13915.7,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "348-low-pass-impact-13.png",
+  "saved": "2026-10-28T22:43:00+09:00",
+  "active_seconds": 13916.0,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "349-low-pass-impact-14.png",
+  "saved": "2026-10-28T22:43:00+09:00",
+  "active_seconds": 13916.3,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "350-low-pass-impact-15.png",
+  "saved": "2026-10-28T22:43:00+09:00",
+  "active_seconds": 13916.6,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "351-low-pass-impact-16.png",
+  "saved": "2026-10-28T22:43:01+09:00",
+  "active_seconds": 13916.9,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "352-low-pass-impact-17.png",
+  "saved": "2026-10-28T22:43:01+09:00",
+  "active_seconds": 13917.2,
+  "total_tokens": 267291398
+ },
+ {
+  "file": "353-final-overhead-lake.png",
+  "saved": "2026-10-28T22:44:07+09:00",
+  "active_seconds": 13983.8,
+  "total_tokens": 268165894
+ },
+ {
+  "file": "354-final-overhead-at-25.png",
+  "saved": "2026-10-28T22:44:13+09:00",
+  "active_seconds": 13989.4,
+  "total_tokens": 268278450
+ },
+ {
+  "file": "355-final-bullet-impact-0.png",
+  "saved": "2026-10-28T22:44:21+09:00",
+  "active_seconds": 13997.5,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "356-final-bullet-impact-1.png",
+  "saved": "2026-10-28T22:44:21+09:00",
+  "active_seconds": 13997.8,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "357-final-bullet-impact-2.png",
+  "saved": "2026-10-28T22:44:22+09:00",
+  "active_seconds": 13998.1,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "358-final-bullet-impact-3.png",
+  "saved": "2026-10-28T22:44:22+09:00",
+  "active_seconds": 13998.4,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "359-final-bullet-impact-4.png",
+  "saved": "2026-10-28T22:44:22+09:00",
+  "active_seconds": 13998.7,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "360-final-bullet-impact-5.png",
+  "saved": "2026-10-28T22:44:23+09:00",
+  "active_seconds": 13999.0,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "361-final-bullet-impact-6.png",
+  "saved": "2026-10-28T22:44:23+09:00",
+  "active_seconds": 13999.3,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "362-final-bullet-impact-7.png",
+  "saved": "2026-10-28T22:44:23+09:00",
+  "active_seconds": 13999.6,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "363-final-bullet-impact-8.png",
+  "saved": "2026-10-28T22:44:24+09:00",
+  "active_seconds": 13999.9,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "364-final-bullet-impact-9.png",
+  "saved": "2026-10-28T22:44:24+09:00",
+  "active_seconds": 14000.2,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "365-final-bullet-impact-10.png",
+  "saved": "2026-10-28T22:44:24+09:00",
+  "active_seconds": 14000.5,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "366-final-bullet-impact-11.png",
+  "saved": "2026-10-28T22:44:24+09:00",
+  "active_seconds": 14000.7,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "367-final-bullet-impact-12.png",
+  "saved": "2026-10-28T22:44:25+09:00",
+  "active_seconds": 14001.0,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "368-final-bullet-impact-13.png",
+  "saved": "2026-10-28T22:44:25+09:00",
+  "active_seconds": 14001.3,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "369-final-bullet-impact-14.png",
+  "saved": "2026-10-28T22:44:25+09:00",
+  "active_seconds": 14001.6,
+  "total_tokens": 268392865
+ },
+ {
+  "file": "370-final-dolphins-0.png",
+  "saved": "2026-10-28T22:44:36+09:00",
+  "active_seconds": 14012.5,
+  "total_tokens": 268628322
+ },
+ {
+  "file": "371-final-dolphins-1.png",
+  "saved": "2026-10-28T22:44:36+09:00",
+  "active_seconds": 14012.9,
+  "total_tokens": 268628322
+ },
+ {
+  "file": "372-final-dolphins-2.png",
+  "saved": "2026-10-28T22:44:37+09:00",
+  "active_seconds": 14013.2,
+  "total_tokens": 268628322
+ },
+ {
+  "file": "373-final-dolphins-3.png",
+  "saved": "2026-10-28T22:44:37+09:00",
+  "active_seconds": 14013.6,
+  "total_tokens": 268628322
+ },
+ {
+  "file": "374-final-dolphins-4.png",
+  "saved": "2026-10-28T22:44:38+09:00",
+  "active_seconds": 14013.9,
+  "total_tokens": 268628322
+ },
+ {
+  "file": "375-final-dolphins-5.png",
+  "saved": "2026-10-28T22:44:38+09:00",
+  "active_seconds": 14014.3,
+  "total_tokens": 268628322
+ },
+ {
+  "file": "376-final-dolphins-6.png",
+  "saved": "2026-10-28T22:44:38+09:00",
+  "active_seconds": 14014.6,
+  "total_tokens": 268628322
+ },
+ {
+  "file": "377-final-dolphins-7.png",
+  "saved": "2026-10-28T22:44:39+09:00",
+  "active_seconds": 14014.9,
+  "total_tokens": 268628322
+ },
+ {
+  "file": "378-revision-10-ready.png",
+  "saved": "2026-10-28T22:44:45+09:00",
+  "active_seconds": 14021.4,
+  "total_tokens": 268748364
+ },
+ {
+  "file": "379-first-turn-before.png",
+  "saved": "2026-10-28T22:50:50+09:00",
+  "active_seconds": 14235.2,
+  "total_tokens": 271399899
+ },
+ {
+  "file": "380-crossing-turn-progress-0.png",
+  "saved": "2026-10-28T22:53:59+09:00",
+  "active_seconds": 14424.4,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "381-crossing-turn-progress-1.png",
+  "saved": "2026-10-28T22:53:59+09:00",
+  "active_seconds": 14424.8,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "382-crossing-turn-progress-2.png",
+  "saved": "2026-10-28T22:54:00+09:00",
+  "active_seconds": 14425.1,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "383-crossing-turn-progress-3.png",
+  "saved": "2026-10-28T22:54:00+09:00",
+  "active_seconds": 14425.4,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "384-crossing-turn-progress-4.png",
+  "saved": "2026-10-28T22:54:00+09:00",
+  "active_seconds": 14425.7,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "385-crossing-turn-progress-5.png",
+  "saved": "2026-10-28T22:54:01+09:00",
+  "active_seconds": 14426.0,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "386-crossing-turn-progress-6.png",
+  "saved": "2026-10-28T22:54:01+09:00",
+  "active_seconds": 14426.3,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "387-crossing-turn-progress-7.png",
+  "saved": "2026-10-28T22:54:01+09:00",
+  "active_seconds": 14426.7,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "388-crossing-turn-progress-8.png",
+  "saved": "2026-10-28T22:54:02+09:00",
+  "active_seconds": 14427.0,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "389-crossing-turn-progress-9.png",
+  "saved": "2026-10-28T22:54:02+09:00",
+  "active_seconds": 14427.4,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "390-crossing-turn-progress-10.png",
+  "saved": "2026-10-28T22:54:02+09:00",
+  "active_seconds": 14427.7,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "391-crossing-turn-progress-11.png",
+  "saved": "2026-10-28T22:54:03+09:00",
+  "active_seconds": 14428.4,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "392-crossing-turn-progress-12.png",
+  "saved": "2026-10-28T22:54:03+09:00",
+  "active_seconds": 14428.8,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "393-crossing-turn-progress-13.png",
+  "saved": "2026-10-28T22:54:04+09:00",
+  "active_seconds": 14429.1,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "394-crossing-turn-progress-14.png",
+  "saved": "2026-10-28T22:54:04+09:00",
+  "active_seconds": 14429.5,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "395-crossing-turn-progress-15.png",
+  "saved": "2026-10-28T22:54:04+09:00",
+  "active_seconds": 14429.8,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "396-crossing-turn-progress-16.png",
+  "saved": "2026-10-28T22:54:05+09:00",
+  "active_seconds": 14430.2,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "397-crossing-turn-progress-17.png",
+  "saved": "2026-10-28T22:54:05+09:00",
+  "active_seconds": 14430.5,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "398-crossing-turn-progress-18.png",
+  "saved": "2026-10-28T22:54:05+09:00",
+  "active_seconds": 14430.8,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "399-crossing-turn-progress-19.png",
+  "saved": "2026-10-28T22:54:06+09:00",
+  "active_seconds": 14431.1,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "400-crossing-turn-progress-20.png",
+  "saved": "2026-10-28T22:54:06+09:00",
+  "active_seconds": 14431.5,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "401-crossing-turn-progress-21.png",
+  "saved": "2026-10-28T22:54:06+09:00",
+  "active_seconds": 14431.8,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "402-crossing-turn-progress-22.png",
+  "saved": "2026-10-28T22:54:07+09:00",
+  "active_seconds": 14432.1,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "403-crossing-turn-progress-23.png",
+  "saved": "2026-10-28T22:54:07+09:00",
+  "active_seconds": 14432.4,
+  "total_tokens": 274729103
+ },
+ {
+  "file": "404-counterattack-check-0.png",
+  "saved": "2026-10-28T22:54:27+09:00",
+  "active_seconds": 14452.7,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "405-counterattack-check-1.png",
+  "saved": "2026-10-28T22:54:28+09:00",
+  "active_seconds": 14453.0,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "406-counterattack-check-2.png",
+  "saved": "2026-10-28T22:54:28+09:00",
+  "active_seconds": 14453.4,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "407-counterattack-check-3.png",
+  "saved": "2026-10-28T22:54:28+09:00",
+  "active_seconds": 14453.7,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "408-counterattack-check-4.png",
+  "saved": "2026-10-28T22:54:29+09:00",
+  "active_seconds": 14454.0,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "409-counterattack-check-5.png",
+  "saved": "2026-10-28T22:54:29+09:00",
+  "active_seconds": 14454.3,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "410-counterattack-check-6.png",
+  "saved": "2026-10-28T22:54:29+09:00",
+  "active_seconds": 14454.6,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "411-counterattack-check-7.png",
+  "saved": "2026-10-28T22:54:29+09:00",
+  "active_seconds": 14454.9,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "412-counterattack-check-8.png",
+  "saved": "2026-10-28T22:54:30+09:00",
+  "active_seconds": 14455.2,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "413-counterattack-check-9.png",
+  "saved": "2026-10-28T22:54:30+09:00",
+  "active_seconds": 14455.5,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "414-counterattack-check-10.png",
+  "saved": "2026-10-28T22:54:30+09:00",
+  "active_seconds": 14455.9,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "415-counterattack-check-11.png",
+  "saved": "2026-10-28T22:54:31+09:00",
+  "active_seconds": 14456.2,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "416-counterattack-check-12.png",
+  "saved": "2026-10-28T22:54:31+09:00",
+  "active_seconds": 14456.5,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "417-counterattack-check-13.png",
+  "saved": "2026-10-28T22:54:31+09:00",
+  "active_seconds": 14456.8,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "418-counterattack-check-14.png",
+  "saved": "2026-10-28T22:54:32+09:00",
+  "active_seconds": 14457.1,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "419-counterattack-check-15.png",
+  "saved": "2026-10-28T22:54:32+09:00",
+  "active_seconds": 14457.4,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "420-counterattack-check-16.png",
+  "saved": "2026-10-28T22:54:32+09:00",
+  "active_seconds": 14457.7,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "421-counterattack-check-17.png",
+  "saved": "2026-10-28T22:54:33+09:00",
+  "active_seconds": 14458.0,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "422-counterattack-check-18.png",
+  "saved": "2026-10-28T22:54:33+09:00",
+  "active_seconds": 14458.3,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "423-counterattack-check-19.png",
+  "saved": "2026-10-28T22:54:33+09:00",
+  "active_seconds": 14458.6,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "424-counterattack-check-20.png",
+  "saved": "2026-10-28T22:54:34+09:00",
+  "active_seconds": 14458.9,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "425-counterattack-check-21.png",
+  "saved": "2026-10-28T22:54:34+09:00",
+  "active_seconds": 14459.3,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "426-counterattack-check-22.png",
+  "saved": "2026-10-28T22:54:34+09:00",
+  "active_seconds": 14459.6,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "427-counterattack-check-23.png",
+  "saved": "2026-10-28T22:54:34+09:00",
+  "active_seconds": 14459.9,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "428-counterattack-check-24.png",
+  "saved": "2026-10-28T22:54:35+09:00",
+  "active_seconds": 14460.2,
+  "total_tokens": 275111668
+ },
+ {
+  "file": "429-crossing-revision-ready.png",
+  "saved": "2026-10-28T22:54:59+09:00",
+  "active_seconds": 14484.4,
+  "total_tokens": 275728654
+ },
+ {
+  "file": "430-explosion-sound-shake-0.png",
+  "saved": "2026-10-28T23:00:36+09:00",
+  "active_seconds": 14798.8,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "431-explosion-sound-shake-1.png",
+  "saved": "2026-10-28T23:00:37+09:00",
+  "active_seconds": 14799.1,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "432-explosion-sound-shake-2.png",
+  "saved": "2026-10-28T23:00:37+09:00",
+  "active_seconds": 14799.3,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "433-explosion-sound-shake-3.png",
+  "saved": "2026-10-28T23:00:37+09:00",
+  "active_seconds": 14799.6,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "434-explosion-sound-shake-4.png",
+  "saved": "2026-10-28T23:00:37+09:00",
+  "active_seconds": 14799.9,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "435-explosion-sound-shake-5.png",
+  "saved": "2026-10-28T23:00:38+09:00",
+  "active_seconds": 14800.2,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "436-explosion-sound-shake-6.png",
+  "saved": "2026-10-28T23:00:38+09:00",
+  "active_seconds": 14800.5,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "437-explosion-sound-shake-7.png",
+  "saved": "2026-10-28T23:00:38+09:00",
+  "active_seconds": 14800.8,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "438-explosion-sound-shake-8.png",
+  "saved": "2026-10-28T23:00:39+09:00",
+  "active_seconds": 14801.0,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "439-explosion-sound-shake-9.png",
+  "saved": "2026-10-28T23:00:39+09:00",
+  "active_seconds": 14801.3,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "440-explosion-sound-shake-10.png",
+  "saved": "2026-10-28T23:00:39+09:00",
+  "active_seconds": 14801.6,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "441-explosion-sound-shake-11.png",
+  "saved": "2026-10-28T23:00:39+09:00",
+  "active_seconds": 14801.8,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "442-explosion-sound-shake-12.png",
+  "saved": "2026-10-28T23:00:40+09:00",
+  "active_seconds": 14802.2,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "443-explosion-sound-shake-13.png",
+  "saved": "2026-10-28T23:00:40+09:00",
+  "active_seconds": 14802.5,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "444-explosion-sound-shake-14.png",
+  "saved": "2026-10-28T23:00:40+09:00",
+  "active_seconds": 14802.8,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "445-explosion-sound-shake-15.png",
+  "saved": "2026-10-28T23:00:41+09:00",
+  "active_seconds": 14803.1,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "446-explosion-sound-shake-16.png",
+  "saved": "2026-10-28T23:00:41+09:00",
+  "active_seconds": 14803.3,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "447-explosion-sound-shake-17.png",
+  "saved": "2026-10-28T23:00:41+09:00",
+  "active_seconds": 14803.6,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "448-explosion-sound-shake-18.png",
+  "saved": "2026-10-28T23:00:41+09:00",
+  "active_seconds": 14803.9,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "449-explosion-sound-shake-19.png",
+  "saved": "2026-10-28T23:00:42+09:00",
+  "active_seconds": 14804.2,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "450-explosion-sound-shake-20.png",
+  "saved": "2026-10-28T23:00:42+09:00",
+  "active_seconds": 14804.4,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "451-explosion-sound-shake-21.png",
+  "saved": "2026-10-28T23:00:42+09:00",
+  "active_seconds": 14804.7,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "452-explosion-sound-shake-22.png",
+  "saved": "2026-10-28T23:00:42+09:00",
+  "active_seconds": 14804.9,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "453-explosion-sound-shake-23.png",
+  "saved": "2026-10-28T23:00:43+09:00",
+  "active_seconds": 14805.2,
+  "total_tokens": 282918011
+ },
+ {
+  "file": "454-blast-review-0.png",
+  "saved": "2026-10-28T23:01:03+09:00",
+  "active_seconds": 14825.7,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "455-blast-review-1.png",
+  "saved": "2026-10-28T23:01:03+09:00",
+  "active_seconds": 14825.9,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "456-blast-review-2.png",
+  "saved": "2026-10-28T23:01:04+09:00",
+  "active_seconds": 14826.1,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "457-blast-review-3.png",
+  "saved": "2026-10-28T23:01:04+09:00",
+  "active_seconds": 14826.4,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "458-blast-review-4.png",
+  "saved": "2026-10-28T23:01:04+09:00",
+  "active_seconds": 14826.6,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "459-blast-review-5.png",
+  "saved": "2026-10-28T23:01:04+09:00",
+  "active_seconds": 14826.9,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "460-blast-review-6.png",
+  "saved": "2026-10-28T23:01:05+09:00",
+  "active_seconds": 14827.1,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "461-blast-review-7.png",
+  "saved": "2026-10-28T23:01:05+09:00",
+  "active_seconds": 14827.4,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "462-blast-review-8.png",
+  "saved": "2026-10-28T23:01:05+09:00",
+  "active_seconds": 14827.6,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "463-blast-review-9.png",
+  "saved": "2026-10-28T23:01:05+09:00",
+  "active_seconds": 14827.9,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "464-blast-review-10.png",
+  "saved": "2026-10-28T23:01:06+09:00",
+  "active_seconds": 14828.1,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "465-blast-review-11.png",
+  "saved": "2026-10-28T23:01:06+09:00",
+  "active_seconds": 14828.4,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "466-blast-review-12.png",
+  "saved": "2026-10-28T23:01:06+09:00",
+  "active_seconds": 14828.7,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "467-blast-review-13.png",
+  "saved": "2026-10-28T23:01:06+09:00",
+  "active_seconds": 14828.9,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "468-blast-review-14.png",
+  "saved": "2026-10-28T23:01:07+09:00",
+  "active_seconds": 14829.2,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "469-blast-review-15.png",
+  "saved": "2026-10-28T23:01:07+09:00",
+  "active_seconds": 14829.4,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "470-blast-review-16.png",
+  "saved": "2026-10-28T23:01:07+09:00",
+  "active_seconds": 14829.7,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "471-blast-review-17.png",
+  "saved": "2026-10-28T23:01:08+09:00",
+  "active_seconds": 14829.9,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "472-blast-review-18.png",
+  "saved": "2026-10-28T23:01:08+09:00",
+  "active_seconds": 14830.2,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "473-blast-review-19.png",
+  "saved": "2026-10-28T23:01:08+09:00",
+  "active_seconds": 14830.5,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "474-blast-review-20.png",
+  "saved": "2026-10-28T23:01:08+09:00",
+  "active_seconds": 14830.7,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "475-blast-review-21.png",
+  "saved": "2026-10-28T23:01:09+09:00",
+  "active_seconds": 14831.0,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "476-blast-review-22.png",
+  "saved": "2026-10-28T23:01:09+09:00",
+  "active_seconds": 14831.2,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "477-blast-review-23.png",
+  "saved": "2026-10-28T23:01:09+09:00",
+  "active_seconds": 14831.5,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "478-blast-review-24.png",
+  "saved": "2026-10-28T23:01:09+09:00",
+  "active_seconds": 14831.7,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "479-blast-review-25.png",
+  "saved": "2026-10-28T23:01:10+09:00",
+  "active_seconds": 14832.0,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "480-blast-review-26.png",
+  "saved": "2026-10-28T23:01:10+09:00",
+  "active_seconds": 14832.3,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "481-blast-review-27.png",
+  "saved": "2026-10-28T23:01:10+09:00",
+  "active_seconds": 14832.6,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "482-blast-review-28.png",
+  "saved": "2026-10-28T23:01:11+09:00",
+  "active_seconds": 14832.9,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "483-blast-review-29.png",
+  "saved": "2026-10-28T23:01:11+09:00",
+  "active_seconds": 14833.2,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "484-blast-review-30.png",
+  "saved": "2026-10-28T23:01:11+09:00",
+  "active_seconds": 14833.5,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "485-blast-review-31.png",
+  "saved": "2026-10-28T23:01:11+09:00",
+  "active_seconds": 14833.7,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "486-blast-review-32.png",
+  "saved": "2026-10-28T23:01:12+09:00",
+  "active_seconds": 14834.0,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "487-blast-review-33.png",
+  "saved": "2026-10-28T23:01:12+09:00",
+  "active_seconds": 14834.2,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "488-blast-review-34.png",
+  "saved": "2026-10-28T23:01:12+09:00",
+  "active_seconds": 14834.5,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "489-blast-review-35.png",
+  "saved": "2026-10-28T23:01:12+09:00",
+  "active_seconds": 14834.8,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "490-blast-review-36.png",
+  "saved": "2026-10-28T23:01:13+09:00",
+  "active_seconds": 14835.0,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "491-blast-review-37.png",
+  "saved": "2026-10-28T23:01:13+09:00",
+  "active_seconds": 14835.3,
+  "total_tokens": 283429181
+ },
+ {
+  "file": "492-volumetric-blast-0.png",
+  "saved": "2026-10-28T23:03:57+09:00",
+  "active_seconds": 14999.1,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "493-volumetric-blast-1.png",
+  "saved": "2026-10-28T23:03:57+09:00",
+  "active_seconds": 14999.3,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "494-volumetric-blast-2.png",
+  "saved": "2026-10-28T23:03:57+09:00",
+  "active_seconds": 14999.6,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "495-volumetric-blast-3.png",
+  "saved": "2026-10-28T23:03:57+09:00",
+  "active_seconds": 14999.9,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "496-volumetric-blast-4.png",
+  "saved": "2026-10-28T23:03:58+09:00",
+  "active_seconds": 15000.2,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "497-volumetric-blast-5.png",
+  "saved": "2026-10-28T23:03:58+09:00",
+  "active_seconds": 15000.4,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "498-volumetric-blast-6.png",
+  "saved": "2026-10-28T23:03:58+09:00",
+  "active_seconds": 15000.7,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "499-volumetric-blast-7.png",
+  "saved": "2026-10-28T23:03:59+09:00",
+  "active_seconds": 15000.9,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "500-volumetric-blast-8.png",
+  "saved": "2026-10-28T23:03:59+09:00",
+  "active_seconds": 15001.2,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "501-volumetric-blast-9.png",
+  "saved": "2026-10-28T23:03:59+09:00",
+  "active_seconds": 15001.5,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "502-volumetric-blast-10.png",
+  "saved": "2026-10-28T23:03:59+09:00",
+  "active_seconds": 15001.7,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "503-volumetric-blast-11.png",
+  "saved": "2026-10-28T23:04:00+09:00",
+  "active_seconds": 15002.0,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "504-volumetric-blast-12.png",
+  "saved": "2026-10-28T23:04:00+09:00",
+  "active_seconds": 15002.2,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "505-volumetric-blast-13.png",
+  "saved": "2026-10-28T23:04:00+09:00",
+  "active_seconds": 15002.5,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "506-volumetric-blast-14.png",
+  "saved": "2026-10-28T23:04:00+09:00",
+  "active_seconds": 15002.8,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "507-volumetric-blast-15.png",
+  "saved": "2026-10-28T23:04:01+09:00",
+  "active_seconds": 15003.0,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "508-volumetric-blast-16.png",
+  "saved": "2026-10-28T23:04:01+09:00",
+  "active_seconds": 15003.3,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "509-volumetric-blast-17.png",
+  "saved": "2026-10-28T23:04:01+09:00",
+  "active_seconds": 15003.5,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "510-volumetric-blast-18.png",
+  "saved": "2026-10-28T23:04:01+09:00",
+  "active_seconds": 15003.8,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "511-volumetric-blast-19.png",
+  "saved": "2026-10-28T23:04:02+09:00",
+  "active_seconds": 15004.0,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "512-volumetric-blast-20.png",
+  "saved": "2026-10-28T23:04:02+09:00",
+  "active_seconds": 15004.3,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "513-volumetric-blast-21.png",
+  "saved": "2026-10-28T23:04:02+09:00",
+  "active_seconds": 15004.6,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "514-volumetric-blast-22.png",
+  "saved": "2026-10-28T23:04:03+09:00",
+  "active_seconds": 15004.9,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "515-volumetric-blast-23.png",
+  "saved": "2026-10-28T23:04:03+09:00",
+  "active_seconds": 15005.3,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "516-volumetric-blast-24.png",
+  "saved": "2026-10-28T23:04:03+09:00",
+  "active_seconds": 15005.7,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "517-volumetric-blast-25.png",
+  "saved": "2026-10-28T23:04:04+09:00",
+  "active_seconds": 15006.0,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "518-volumetric-blast-26.png",
+  "saved": "2026-10-28T23:04:04+09:00",
+  "active_seconds": 15006.3,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "519-volumetric-blast-27.png",
+  "saved": "2026-10-28T23:04:04+09:00",
+  "active_seconds": 15006.6,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "520-volumetric-blast-28.png",
+  "saved": "2026-10-28T23:04:04+09:00",
+  "active_seconds": 15006.9,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "521-volumetric-blast-29.png",
+  "saved": "2026-10-28T23:04:05+09:00",
+  "active_seconds": 15007.2,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "522-volumetric-blast-30.png",
+  "saved": "2026-10-28T23:04:05+09:00",
+  "active_seconds": 15007.5,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "523-volumetric-blast-31.png",
+  "saved": "2026-10-28T23:04:05+09:00",
+  "active_seconds": 15007.8,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "524-volumetric-blast-32.png",
+  "saved": "2026-10-28T23:04:06+09:00",
+  "active_seconds": 15008.2,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "525-volumetric-blast-33.png",
+  "saved": "2026-10-28T23:04:06+09:00",
+  "active_seconds": 15008.5,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "526-volumetric-blast-34.png",
+  "saved": "2026-10-28T23:04:06+09:00",
+  "active_seconds": 15008.8,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "527-volumetric-blast-35.png",
+  "saved": "2026-10-28T23:04:07+09:00",
+  "active_seconds": 15009.1,
+  "total_tokens": 286799095
+ },
+ {
+  "file": "528-shards-and-blast-0.png",
+  "saved": "2026-10-28T23:05:47+09:00",
+  "active_seconds": 15109.4,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "529-shards-and-blast-1.png",
+  "saved": "2026-10-28T23:05:47+09:00",
+  "active_seconds": 15109.6,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "530-shards-and-blast-2.png",
+  "saved": "2026-10-28T23:05:47+09:00",
+  "active_seconds": 15109.8,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "531-shards-and-blast-3.png",
+  "saved": "2026-10-28T23:05:48+09:00",
+  "active_seconds": 15110.1,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "532-shards-and-blast-4.png",
+  "saved": "2026-10-28T23:05:48+09:00",
+  "active_seconds": 15110.4,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "533-shards-and-blast-5.png",
+  "saved": "2026-10-28T23:05:48+09:00",
+  "active_seconds": 15110.6,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "534-shards-and-blast-6.png",
+  "saved": "2026-10-28T23:05:48+09:00",
+  "active_seconds": 15110.9,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "535-shards-and-blast-7.png",
+  "saved": "2026-10-28T23:05:49+09:00",
+  "active_seconds": 15111.1,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "536-shards-and-blast-8.png",
+  "saved": "2026-10-28T23:05:49+09:00",
+  "active_seconds": 15111.4,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "537-shards-and-blast-9.png",
+  "saved": "2026-10-28T23:05:49+09:00",
+  "active_seconds": 15111.6,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "538-shards-and-blast-10.png",
+  "saved": "2026-10-28T23:05:49+09:00",
+  "active_seconds": 15111.9,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "539-shards-and-blast-11.png",
+  "saved": "2026-10-28T23:05:50+09:00",
+  "active_seconds": 15112.2,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "540-shards-and-blast-12.png",
+  "saved": "2026-10-28T23:05:50+09:00",
+  "active_seconds": 15112.4,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "541-shards-and-blast-13.png",
+  "saved": "2026-10-28T23:05:50+09:00",
+  "active_seconds": 15112.7,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "542-shards-and-blast-14.png",
+  "saved": "2026-10-28T23:05:51+09:00",
+  "active_seconds": 15112.9,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "543-shards-and-blast-15.png",
+  "saved": "2026-10-28T23:05:51+09:00",
+  "active_seconds": 15113.4,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "544-shards-and-blast-16.png",
+  "saved": "2026-10-28T23:05:51+09:00",
+  "active_seconds": 15113.7,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "545-shards-and-blast-17.png",
+  "saved": "2026-10-28T23:05:51+09:00",
+  "active_seconds": 15113.9,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "546-shards-and-blast-18.png",
+  "saved": "2026-10-28T23:05:52+09:00",
+  "active_seconds": 15114.2,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "547-shards-and-blast-19.png",
+  "saved": "2026-10-28T23:05:52+09:00",
+  "active_seconds": 15114.4,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "548-shards-and-blast-20.png",
+  "saved": "2026-10-28T23:05:52+09:00",
+  "active_seconds": 15114.7,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "549-shards-and-blast-21.png",
+  "saved": "2026-10-28T23:05:53+09:00",
+  "active_seconds": 15114.9,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "550-shards-and-blast-22.png",
+  "saved": "2026-10-28T23:05:53+09:00",
+  "active_seconds": 15115.3,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "551-shards-and-blast-23.png",
+  "saved": "2026-10-28T23:05:53+09:00",
+  "active_seconds": 15115.6,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "552-shards-and-blast-24.png",
+  "saved": "2026-10-28T23:05:54+09:00",
+  "active_seconds": 15115.9,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "553-shards-and-blast-25.png",
+  "saved": "2026-10-28T23:05:54+09:00",
+  "active_seconds": 15116.2,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "554-shards-and-blast-26.png",
+  "saved": "2026-10-28T23:05:54+09:00",
+  "active_seconds": 15116.5,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "555-shards-and-blast-27.png",
+  "saved": "2026-10-28T23:05:54+09:00",
+  "active_seconds": 15116.7,
+  "total_tokens": 289476027
+ },
+ {
+  "file": "556-blast-composite-0.png",
+  "saved": "2026-10-28T23:07:19+09:00",
+  "active_seconds": 15201.8,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "557-blast-composite-1.png",
+  "saved": "2026-10-28T23:07:20+09:00",
+  "active_seconds": 15202.0,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "558-blast-composite-2.png",
+  "saved": "2026-10-28T23:07:20+09:00",
+  "active_seconds": 15202.3,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "559-blast-composite-3.png",
+  "saved": "2026-10-28T23:07:20+09:00",
+  "active_seconds": 15202.5,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "560-blast-composite-4.png",
+  "saved": "2026-10-28T23:07:20+09:00",
+  "active_seconds": 15202.8,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "561-blast-composite-5.png",
+  "saved": "2026-10-28T23:07:21+09:00",
+  "active_seconds": 15203.0,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "562-blast-composite-6.png",
+  "saved": "2026-10-28T23:07:21+09:00",
+  "active_seconds": 15203.3,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "563-blast-composite-7.png",
+  "saved": "2026-10-28T23:07:21+09:00",
+  "active_seconds": 15203.5,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "564-blast-composite-8.png",
+  "saved": "2026-10-28T23:07:21+09:00",
+  "active_seconds": 15203.8,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "565-blast-composite-9.png",
+  "saved": "2026-10-28T23:07:22+09:00",
+  "active_seconds": 15204.0,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "566-blast-composite-10.png",
+  "saved": "2026-10-28T23:07:22+09:00",
+  "active_seconds": 15204.3,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "567-blast-composite-11.png",
+  "saved": "2026-10-28T23:07:22+09:00",
+  "active_seconds": 15204.6,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "568-blast-composite-12.png",
+  "saved": "2026-10-28T23:07:22+09:00",
+  "active_seconds": 15204.8,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "569-blast-composite-13.png",
+  "saved": "2026-10-28T23:07:23+09:00",
+  "active_seconds": 15205.1,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "570-blast-composite-14.png",
+  "saved": "2026-10-28T23:07:23+09:00",
+  "active_seconds": 15205.3,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "571-blast-composite-15.png",
+  "saved": "2026-10-28T23:07:23+09:00",
+  "active_seconds": 15205.6,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "572-blast-composite-16.png",
+  "saved": "2026-10-28T23:07:23+09:00",
+  "active_seconds": 15205.9,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "573-blast-composite-17.png",
+  "saved": "2026-10-28T23:07:24+09:00",
+  "active_seconds": 15206.1,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "574-blast-composite-18.png",
+  "saved": "2026-10-28T23:07:24+09:00",
+  "active_seconds": 15206.4,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "575-blast-composite-19.png",
+  "saved": "2026-10-28T23:07:24+09:00",
+  "active_seconds": 15206.7,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "576-blast-composite-20.png",
+  "saved": "2026-10-28T23:07:25+09:00",
+  "active_seconds": 15207.0,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "577-blast-composite-21.png",
+  "saved": "2026-10-28T23:07:25+09:00",
+  "active_seconds": 15207.3,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "578-blast-composite-22.png",
+  "saved": "2026-10-28T23:07:25+09:00",
+  "active_seconds": 15207.6,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "579-blast-composite-23.png",
+  "saved": "2026-10-28T23:07:25+09:00",
+  "active_seconds": 15207.8,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "580-blast-composite-24.png",
+  "saved": "2026-10-28T23:07:26+09:00",
+  "active_seconds": 15208.1,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "581-blast-composite-25.png",
+  "saved": "2026-10-28T23:07:26+09:00",
+  "active_seconds": 15208.3,
+  "total_tokens": 292708226
+ },
+ {
+  "file": "582-cinema-entry.png",
+  "saved": "2026-10-28T23:11:36+09:00",
+  "active_seconds": 15458.9,
+  "total_tokens": 298836789
+ },
+ {
+  "file": "583-cinema-entry-refined.png",
+  "saved": "2026-10-28T23:12:21+09:00",
+  "active_seconds": 15503.1,
+  "total_tokens": 301084269
+ },
+ {
+  "file": "584-cinema-no-hud.png",
+  "saved": "2026-10-28T23:12:27+09:00",
+  "active_seconds": 15508.9,
+  "total_tokens": 301462230
+ },
+ {
+  "file": "585-cinema-controls-on-tap.png",
+  "saved": "2026-10-28T23:12:39+09:00",
+  "active_seconds": 15521.2,
+  "total_tokens": 302222207
+ },
+ {
+  "file": "586-cinema-blast-0.png",
+  "saved": "2026-10-28T23:12:57+09:00",
+  "active_seconds": 15539.3,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "587-cinema-blast-1.png",
+  "saved": "2026-10-28T23:12:57+09:00",
+  "active_seconds": 15539.5,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "588-cinema-blast-2.png",
+  "saved": "2026-10-28T23:12:57+09:00",
+  "active_seconds": 15539.8,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "589-cinema-blast-3.png",
+  "saved": "2026-10-28T23:12:58+09:00",
+  "active_seconds": 15540.0,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "590-cinema-blast-4.png",
+  "saved": "2026-10-28T23:12:58+09:00",
+  "active_seconds": 15540.3,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "591-cinema-blast-5.png",
+  "saved": "2026-10-28T23:12:58+09:00",
+  "active_seconds": 15540.5,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "592-cinema-blast-6.png",
+  "saved": "2026-10-28T23:12:58+09:00",
+  "active_seconds": 15540.8,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "593-cinema-blast-7.png",
+  "saved": "2026-10-28T23:12:59+09:00",
+  "active_seconds": 15541.1,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "594-cinema-blast-8.png",
+  "saved": "2026-10-28T23:12:59+09:00",
+  "active_seconds": 15541.3,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "595-cinema-blast-9.png",
+  "saved": "2026-10-28T23:12:59+09:00",
+  "active_seconds": 15541.6,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "596-cinema-blast-10.png",
+  "saved": "2026-10-28T23:12:59+09:00",
+  "active_seconds": 15541.8,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "597-cinema-blast-11.png",
+  "saved": "2026-10-28T23:13:00+09:00",
+  "active_seconds": 15542.1,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "598-cinema-blast-12.png",
+  "saved": "2026-10-28T23:13:00+09:00",
+  "active_seconds": 15542.4,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "599-cinema-blast-13.png",
+  "saved": "2026-10-28T23:13:00+09:00",
+  "active_seconds": 15542.7,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "600-cinema-blast-14.png",
+  "saved": "2026-10-28T23:13:01+09:00",
+  "active_seconds": 15543.0,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "601-cinema-blast-15.png",
+  "saved": "2026-10-28T23:13:01+09:00",
+  "active_seconds": 15543.3,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "602-cinema-blast-16.png",
+  "saved": "2026-10-28T23:13:01+09:00",
+  "active_seconds": 15543.6,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "603-cinema-blast-17.png",
+  "saved": "2026-10-28T23:13:01+09:00",
+  "active_seconds": 15543.8,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "604-cinema-blast-18.png",
+  "saved": "2026-10-28T23:13:02+09:00",
+  "active_seconds": 15544.1,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "605-cinema-blast-19.png",
+  "saved": "2026-10-28T23:13:02+09:00",
+  "active_seconds": 15544.3,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "606-cinema-blast-20.png",
+  "saved": "2026-10-28T23:13:02+09:00",
+  "active_seconds": 15544.6,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "607-cinema-blast-21.png",
+  "saved": "2026-10-28T23:13:02+09:00",
+  "active_seconds": 15544.8,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "608-cinema-blast-22.png",
+  "saved": "2026-10-28T23:13:03+09:00",
+  "active_seconds": 15545.1,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "609-cinema-blast-23.png",
+  "saved": "2026-10-28T23:13:03+09:00",
+  "active_seconds": 15545.4,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "610-cinema-blast-24.png",
+  "saved": "2026-10-28T23:13:03+09:00",
+  "active_seconds": 15545.6,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "611-cinema-blast-25.png",
+  "saved": "2026-10-28T23:13:03+09:00",
+  "active_seconds": 15545.9,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "612-cinema-blast-26.png",
+  "saved": "2026-10-28T23:13:04+09:00",
+  "active_seconds": 15546.1,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "613-cinema-blast-27.png",
+  "saved": "2026-10-28T23:13:04+09:00",
+  "active_seconds": 15546.4,
+  "total_tokens": 302604972
+ },
+ {
+  "file": "614-cinema-and-blast-ready.png",
+  "saved": "2026-10-28T23:13:51+09:00",
+  "active_seconds": 15593.8,
+  "total_tokens": 304564226
+ },
+ {
+  "file": "615-model-credit-progress.png",
+  "saved": "2026-10-28T23:25:01+09:00",
+  "active_seconds": 15802.0,
+  "total_tokens": 313791350
+ },
+ {
+  "file": "616-credit-meter-open.png",
+  "saved": "2026-10-28T23:25:08+09:00",
+  "active_seconds": 15808.8,
+  "total_tokens": 314612855
+ },
+ {
+  "file": "617-final-model-credit.png",
+  "saved": "2026-10-28T23:25:36+09:00",
+  "active_seconds": 15837.0,
+  "total_tokens": 316267574
+ }
+]

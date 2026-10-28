@@ -4,3 +4,4 @@ node_modules/
 __pycache__/
 .pnpm-store/
 screenshots/production-timelapse.gif
+dist/

@@ -2,7 +2,9 @@ import { createWorld, CHASE_START, CHASE_DURATION, ENDING_DURATION, FREEZE_DURAT
 import { createAudio } from './audio.js?revision=18';
 
 const $ = selector => document.querySelector(selector);
-const audio=createAudio($('#score'));
+// Resolved against this module so the score also loads when the film is hosted under a sub-path.
+const scoreElement=$('#score');scoreElement.src=new URL('./assets/flight-to-the-light.wav',import.meta.url).href;
+const audio=createAudio(scoreElement);
 const tours = [
   {kicker:'THE LANDSCAPE',title:'A mountain range,<br><em>made from math.</em>',copy:'Every ridge and valley is generated in the browser. Layered value noise folds the terrain into peaks, and the valley edges are blended so the flight can continue.',tech:'RIDGED NOISE  /  REPEATING TERRAIN',shot:10},
   {kicker:'THE SNOWLINE',title:'Snow finds<br><em>the high places.</em>',copy:'The mountain mesh is coloured one vertex at a time. Height, slope and another layer of noise decide where rock gives way to snow; a fine shader pattern adds surface variation.',tech:'SLOPE MASKS  /  VERTEX COLOUR  /  ROCK SHADER',shot:10},
@@ -84,6 +86,8 @@ if(world)requestAnimationFrame(animate);
 let lastUsage=null,receivedAt=0;const formatNumber=new Intl.NumberFormat();
 function duration(seconds){seconds=Math.max(0,Math.floor(seconds));const h=Math.floor(seconds/3600),m=Math.floor(seconds%3600/60),s=seconds%60;return [h,m,s].map(n=>String(n).padStart(2,'0')).join(':')}
 function updateTime(){if(!lastUsage)return;const elapsed=lastUsage.active_dev_seconds+(lastUsage.active_turn?(performance.now()-receivedAt)/1000:0);$('#devTime').textContent=duration(elapsed);$('#detailTime').textContent=duration(elapsed)}
-async function usage(){try{const response=await fetch('/api/usage',{cache:'no-store'});if(!response.ok)throw Error('usage unavailable');const x=await response.json();lastUsage=x;receivedAt=performance.now();$('#tokens').textContent=formatNumber.format(x.total_tokens);$('#cost').textContent='~$'+x.estimated_cost.toFixed(4);$('#detailInput').textContent=formatNumber.format(x.input_tokens);$('#detailCached').textContent=formatNumber.format(x.cached_input_tokens);$('#detailOutput').textContent=formatNumber.format(x.output_tokens);$('#detailCost').textContent='~$'+x.estimated_cost.toFixed(4);updateTime();}catch{$('#tokens').textContent='Unavailable';$('#cost').textContent='';$('#devTime').textContent='—';lastUsage=null}}
+// A production build has no session server: it shows the final totals recorded in usage-final.json instead.
+const finalUsage=Boolean(import.meta.env?.PROD),usageUrl=finalUsage?new URL('./usage-final.json',import.meta.url).href:'/api/usage';
+async function usage(){try{const response=await fetch(usageUrl,{cache:'no-store'});if(!response.ok)throw Error('usage unavailable');const x=await response.json();lastUsage=x;receivedAt=performance.now();$('#tokens').textContent=formatNumber.format(x.total_tokens);$('#cost').textContent='~$'+x.estimated_cost.toFixed(4);$('#detailInput').textContent=formatNumber.format(x.input_tokens);$('#detailCached').textContent=formatNumber.format(x.cached_input_tokens);$('#detailOutput').textContent=formatNumber.format(x.output_tokens);$('#detailCost').textContent='~$'+x.estimated_cost.toFixed(4);updateTime();}catch{$('#tokens').textContent='Unavailable';$('#cost').textContent='';$('#devTime').textContent='—';lastUsage=null}}
 $('#usage').addEventListener('click',()=>{const panel=$('#usageDetails');panel.hidden=!panel.hidden;$('#usage').setAttribute('aria-expanded',String(!panel.hidden))});
-usage();setInterval(usage,5000);setInterval(updateTime,1000);
+if(finalUsage){$('#usageLive').textContent='FINAL';usage()}else{usage();setInterval(usage,5000)}setInterval(updateTime,1000);

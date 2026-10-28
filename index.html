@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="/style.css?revision=18"><script type="importmap">{"imports":{"three":"/node_modules/three/build/three.module.js","three/addons/":"/node_modules/three/examples/jsm/"}}</script>
 </head>
 <body>
-<div id="scene" tabindex="-1" aria-label="An animated flight over an alpine lake"></div><audio id="score" src="/assets/flight-to-the-light.wav" preload="metadata" aria-hidden="true" hidden></audio><div class="shot-fade" id="shotFade" aria-hidden="true"></div><div class="grain" aria-hidden="true"></div>
+<div id="scene" tabindex="-1" aria-label="An animated flight over an alpine lake"></div><audio id="score" crossorigin="anonymous" preload="metadata" aria-hidden="true" hidden></audio><div class="shot-fade" id="shotFade" aria-hidden="true"></div><div class="grain" aria-hidden="true"></div>
 <header>
   <div class="brand"><span class="brand-mark">✳</span><div><strong>ALPENGLOW</strong><small>A FLIGHT TO THE LIGHT</small></div></div>
   <div class="header-right">
@@ -14,7 +14,7 @@
     <div class="usage-wrap">
       <button class="usage" id="usage" aria-expanded="false" aria-controls="usageDetails" title="View session usage and active development time"><span class="usage-dot"></span><span class="usage-label">DEV TIME</span><strong id="devTime">--:--</strong><span class="divider"></span><span class="usage-label">TOKENS</span><strong id="tokens">Connecting…</strong><span id="cost">—</span><span class="chevron">⌄</span></button>
       <div class="usage-credit">Fully developed with <strong>GPT-6.1 Terra · Max Effort</strong></div>
-      <section class="usage-details" id="usageDetails" hidden><div class="usage-head"><span>SESSION METER</span><span class="live">● LIVE</span></div><div class="usage-row"><span>Active development</span><strong id="detailTime">—</strong></div><div class="usage-row"><span>Input tokens</span><strong id="detailInput">—</strong></div><div class="usage-row"><span>↳ cached input</span><strong id="detailCached">—</strong></div><div class="usage-row"><span>Output tokens</span><strong id="detailOutput">—</strong></div><div class="usage-row total"><span>Estimated API equivalent</span><strong id="detailCost">—</strong></div><p>Active time counts running Codex turns and excludes pauses between them. The estimate uses GPT-6.1 Terra standard API rates; it is not a Codex bill and excludes unrecorded tier, tool and tax charges.</p></section>
+      <section class="usage-details" id="usageDetails" hidden><div class="usage-head"><span>SESSION METER</span><span class="live" id="usageLive">● LIVE</span></div><div class="usage-row"><span>Active development</span><strong id="detailTime">—</strong></div><div class="usage-row"><span>Input tokens</span><strong id="detailInput">—</strong></div><div class="usage-row"><span>↳ cached input</span><strong id="detailCached">—</strong></div><div class="usage-row"><span>Output tokens</span><strong id="detailOutput">—</strong></div><div class="usage-row total"><span>Estimated API equivalent</span><strong id="detailCost">—</strong></div><p>Active time counts running Codex turns and excludes pauses between them. The estimate uses GPT-6.1 Terra standard API rates; it is not a Codex bill and excludes unrecorded tier, tool and tax charges.</p></section>
     </div>
   </div>
 </header>
