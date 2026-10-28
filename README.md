@@ -10,8 +10,9 @@ Built entirely by **GPT-6.1 Terra at Max effort** (not Fast mode) in one Codex s
 
 ## Watch
 
-- **[The film](https://cdn.callmesensei.app/website/experiments/benchmark-plane-terra-6-1/film-db4178b1d55d73c1.mp4)**: the whole film (2:44 with the end title) recorded from the live build in cinema mode (no interface), 1920×1080 with sound.
-- **[Development timelapse](https://cdn.callmesensei.app/website/experiments/benchmark-plane-terra-6-1/development-timelapse-20e544dd40499c79.mp4)**: all 617 development captures in 112 seconds, each captioned with the active build time and token count when it was saved.
+To watch the film, open the [live page](https://www.callmesensei.app/experiments/benchmark-plane-terra-6-1/live) and choose **Watch the full film** or **Cinema mode**.
+
+- **[Development timelapse](https://cdn.callmesensei.app/website/experiments/benchmark-plane-terra-6-1/development-timelapse-845682fe60ed7316.webp)** (animated WebP, 28 MB): all 617 development captures in 102 seconds, each captioned with the active build time and token count when it was saved.
 
 ![Development timelapse preview](docs/timelapse-preview.webp)
 
@@ -56,7 +57,7 @@ A production build has no session server: its meter shows the final totals from 
 
 ## Development record
 
-[`screenshots/`](screenshots) holds the 617 numbered captures saved during development, including intermediate rendering mistakes, at their original resolution. [`screenshots/ledger.json`](screenshots/ledger.json) gives each one's save time, active build time and cumulative token count (`python3 scripts/capture_ledger.py` regenerates it). `python3 make_timelapse.py` (Pillow) assembles them into `screenshots/production-timelapse.gif`; that GIF is over 100 MB, so it is not committed. The captioned MP4 timelapse above is the published version.
+[`screenshots/`](screenshots) holds the 617 numbered captures saved during development, including intermediate rendering mistakes, at their original resolution. [`screenshots/ledger.json`](screenshots/ledger.json) gives each one's save time, active build time and cumulative token count (`python3 scripts/capture_ledger.py` regenerates it). `python3 make_timelapse.py` (Pillow) assembles them into `screenshots/production-timelapse.gif`; that GIF is over 100 MB, so it is not committed. The captioned WebP timelapse above is the published version.
 
 ## Checks
 
